@@ -10,10 +10,10 @@ Vier bronnen per product:
   1. `sitemap.xml`                  -> alle productpagina's (blokken met <image:>)
   2. GraphQL (publiek endpoint)     -> per variant: **artikelnummer** (MT2336),
                                       adviesprijs (regular) en actieprijs (final)
-  3. JSON-LD op de productpagina    -> naam, omschrijving, afbeelding, en per
-                                      variant: Magento-id en voorraadstatus
-  4. `initConfigurableOptions(...)` -> per variant: **EAN-code** + optie-label
-     (inline JS-blok)                 (de EAN staat nergens in GraphQL)
+  3. JSON-LD op de productpagina    -> naam, omschrijving, afbeelding en de
+                                      Magento-id per variant
+  4. `initConfigurableOptions(...)` -> per variant: **EAN-code**, optie-label en
+     (inline JS-blok)                 de `salable`-kaart (= de echte voorraad)
 
 Bijzonderheden van deze winkel:
 - De `sku` van het OUDERproduct is een naam ("Magnesium Bisglycinaat tabletten"),
@@ -26,7 +26,10 @@ Bijzonderheden van deze winkel:
 - Mattisson voert **wisselende kortingen** (regular 19,95 -> final 14,96). De feed
   levert allebei: `price` = adviesprijs, `actieprijs` = wat zij vandaag vragen.
   Welke van de twee je in Stock Sync mapt is een bewuste keuze, geen automatisme.
-- Voorraad is alleen in/uit voorraad (schema.org InStock), geen aantal.
+- Voorraad is alleen in/uit voorraad, geen aantal. Let op: de JSON-LD meldt
+  ALTIJD `InStock`, ook op een pagina die "Niet op voorraad" toont. De echte
+  voorraad zit in de `salable`-kaart (varianten) en in het voorraadmerk van de
+  pagina zelf (producten zonder varianten). Zie test_feed.py.
 
 Lokaal testen achter een SSL-onderscheppende proxy: INSECURE_SSL=1.
 Een product testen: TEST_URL=<volledige productpagina-url>.
@@ -72,6 +75,16 @@ def _get(url, retries=3):
             resp = requests.get(url, headers=HEADERS, timeout=30, verify=VERIFY_SSL)
             resp.raise_for_status()
             return resp
+        except requests.HTTPError as e:
+            # Een 404 wordt bij een tweede poging geen 200; niet wachten.
+            if e.response is not None and 400 <= e.response.status_code < 500:
+                raise
+            if attempt < retries - 1:
+                wait = (attempt + 1) * 15
+                print(f"    !  Fout ({e}), opnieuw in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
         except Exception as e:
             if attempt < retries - 1:
                 wait = (attempt + 1) * 15
@@ -81,8 +94,12 @@ def _get(url, retries=3):
                 raise
 
 
-def product_urls():
-    """Alle productpagina's uit de sitemap (productblokken hebben <image:>)."""
+def sitemap_urls():
+    """Productpagina's uit de sitemap (productblokken hebben <image:>).
+
+    De sitemap loopt achter: op 31-08-2026 gaven 8 van de 444 regels een 404.
+    Daarom is dit maar een van de twee bronnen; zie product_urls().
+    """
     xml = _get(SITEMAP_URL).text
     urls = []
     for blok in re.findall(r"<url>(.*?)</url>", xml, re.DOTALL):
@@ -91,6 +108,68 @@ def product_urls():
         m = re.search(r"<loc>(.*?)</loc>", blok)
         if m:
             urls.append(unescape(m.group(1).strip()))
+    return urls
+
+
+def _graphql(query, variables=None):
+    resp = requests.post(
+        f"{BASE_URL}/graphql",
+        json={"query": query, "variables": variables or {}},
+        headers={**HEADERS, "Content-Type": "application/json"},
+        timeout=60, verify=VERIFY_SSL,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def catalogus_url_keys():
+    """url_keys van alle producten via de categorieboom in GraphQL.
+
+    Vangt de producten die de sitemap mist (bv. de wei-proteine-poeders, die
+    onder een nieuwe url draaien terwijl de sitemap de oude blijft noemen).
+    """
+    boom = _graphql(
+        '{categoryList(filters:{parent_id:{eq:"2"}})'
+        '{uid product_count children{uid product_count}}}'
+    )
+    uids = []
+    for cat in (boom.get("data") or {}).get("categoryList") or []:
+        uids.append(cat["uid"])
+        uids += [kind["uid"] for kind in cat.get("children") or []]
+
+    query = """query($u:String!,$p:Int!){
+      products(filter:{category_uid:{eq:$u}}, pageSize:100, currentPage:$p){
+        items{url_key}
+      }
+    }"""
+    keys = set()
+    for uid in uids:
+        pagina = 1
+        while True:
+            data = _graphql(query, {"u": uid, "p": pagina})
+            items = (((data.get("data") or {}).get("products") or {}).get("items")) or []
+            keys.update(i["url_key"] for i in items if i.get("url_key"))
+            if len(items) < 100:
+                break
+            pagina += 1
+        time.sleep(REQUEST_DELAY)
+    return keys
+
+
+def product_urls():
+    """Sitemap en catalogus samen - geen van beide is in zijn eentje compleet."""
+    uit_sitemap = sitemap_urls()
+    keys = {_handle(u) for u in uit_sitemap}
+    urls = list(uit_sitemap)
+    extra = 0
+    try:
+        for key in sorted(catalogus_url_keys() - keys):
+            urls.append(f"{BASE_URL}/{key}")
+            extra += 1
+    except Exception as e:
+        # De sitemap alleen is bruikbaar; melden en doorgaan is beter dan stoppen.
+        print(f"    !  Catalogus via GraphQL faalt ({e}) - alleen de sitemap gebruikt")
+    print(f"Bronnen: {len(uit_sitemap)} uit de sitemap + {extra} extra uit de catalogus")
     return urls
 
 
@@ -152,6 +231,33 @@ def _optie_labels(config):
             for kind in optie.get("products", []):
                 labels[str(kind)] = optie.get("label") or ""
     return labels
+
+
+def _leverbaar(config):
+    """Kind-ids die Mattisson daadwerkelijk kan leveren, uit de `salable`-kaart.
+
+    Vorm: {"142": {"339": ["444"], "480": ["824"]}} = attribuut -> optie -> kinderen.
+    Een kind dat hier ontbreekt, is uitverkocht. Geeft None als de kaart er niet
+    is (simpel product) - dan telt het voorraadmerk op de pagina.
+    """
+    kaart = config.get("salable")
+    if not kaart:
+        return None
+    ids = set()
+    for opties in kaart.values():
+        for kinderen in (opties or {}).values():
+            ids.update(str(k) for k in kinderen or [])
+    return ids
+
+
+def _pagina_uit_voorraad(html):
+    """Voorraadmerk van de pagina zelf, voor producten zonder varianten.
+
+    De JSON-LD is hier onbruikbaar: die meldt InStock ook als de pagina
+    "Niet op voorraad" toont (nagemeten op vitamine-c-gebufferd-1000mg-capsules,
+    31-08-2026). Daarom het merk uit de HTML en de dataLayer.
+    """
+    return 'class="stock unavailable"' in html or '"dimension10":"Niet op voorraad"' in html
 
 
 def _handle(url):
@@ -248,6 +354,8 @@ def parse_pagina(url, html):
     data = config.get("data") or {}
     titels = config.get("titles") or {}
     labels = _optie_labels(config)
+    leverbaar = _leverbaar(config)
+    uit_voorraad = _pagina_uit_voorraad(html)
     tabel_ean = EAN_TABEL_RE.search(html)
 
     per_label = {}
@@ -264,7 +372,9 @@ def parse_pagina(url, html):
             "barcode": ean,
             "magento_id": kind,
             "titel": titels.get(kind) or ld.get("name") or "",
-            "beschikbaar": "InStock" in str(aanbod.get("availability") or ""),
+            # Niet de JSON-LD gebruiken: die staat altijd op InStock.
+            "beschikbaar": (kind in leverbaar) if leverbaar is not None
+                           else not uit_voorraad,
         }
 
     if not per_label:
@@ -319,7 +429,7 @@ def fetch_products():
     test_url = os.environ.get("TEST_URL")
     urls = [test_url] if test_url else product_urls()
     if not test_url:
-        print(f"Sitemap: {len(urls)} productpagina's")
+        print(f"Te bezoeken: {len(urls)} productpagina's")
         if len(urls) < MIN_PRODUCTPAGINAS:
             raise SystemExit(
                 f"STOP: slechts {len(urls)} productpagina's gevonden (ondergrens "
@@ -374,3 +484,32 @@ def fetch_products():
     varianten = sum(len(p["varianten"]) for p in producten)
     print(f"\nKlaar: {len(producten)} producten, {varianten} varianten met EAN")
     return producten
+
+
+def ontdubbel(producten):
+    """Elke EAN maar een keer in de feed.
+
+    Mattisson voert enkele artikelen onder twee url's (bv. bitterzout-epsom-zout
+    en bitterzout-epsom-zout-1-kg): zelfde artikelnummer, zelfde EAN. Twee regels
+    met dezelfde barcode laten Stock Sync twee keer hetzelfde product schrijven -
+    en in de add-feed zou het twee producten aanmaken. De eerste wint; de rest
+    wordt gemeld, niet stil weggelaten.
+    """
+    gezien, dubbel = {}, []
+    schoon = []
+    for p in producten:
+        varianten = []
+        for v in p["varianten"]:
+            eerste = gezien.get(v["barcode"])
+            if eerste is not None:
+                dubbel.append((v["barcode"], eerste, p["handle"]))
+                continue
+            gezien[v["barcode"]] = p["handle"]
+            varianten.append(v)
+        if varianten:
+            schoon.append({**p, "varianten": varianten})
+    if dubbel:
+        print(f"\nOntdubbeld: {len(dubbel)} regel(s) met een EAN die al voorkwam")
+        for code, eerste, tweede in dubbel:
+            print(f"    - {code}: {tweede} valt weg, {eerste} blijft")
+    return schoon

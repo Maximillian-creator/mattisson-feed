@@ -7,7 +7,13 @@ hebben geen SKU.
 
   price       = adviesprijs van Mattisson (incl. BTW)
   actieprijs  = wat mattisson.nl vandaag vraagt (kan een tijdelijke korting zijn)
-  available   = in/uit voorraad bij Mattisson (geen aantallen beschikbaar)
+  quantity    = 0, altijd. Wij houden geen Mattisson-voorraad aan; de aantallen
+                die tot 31-08-2026 in de winkel stonden (224.918 stuks!) waren de
+                magazijnstanden van Mattisson zelf, uit hun oude feed.
+  available   = kan Mattisson leveren, ja/nee. Dit hoort in Stock Sync op het
+                VOORRAADBELEID gemapt te worden (ja = doorgaan met verkopen,
+                nee = stoppen), niet op een aantal - anders staat er weer een
+                getal in de winkel dat niets betekent.
   sku         = artikelnummer van Mattisson (MT2336) - om lege SKU's te vullen
 
 Bewust GEEN description: dat beschermt de eigen teksten in de winkel.
@@ -45,6 +51,7 @@ def build_xml(producten):
             add("vendor", mc.BRAND)
             add("price", f"{v['prijs']:.2f}")
             add("actieprijs", f"{v['actieprijs']:.2f}")
+            add("quantity", "0")   # wij houden geen eigen Mattisson-voorraad aan
             add("available", "true" if v["beschikbaar"] else "false")
             add("handle", p["handle"])
             add("option1", v["optie"])
@@ -65,7 +72,7 @@ def save_xml(root, filepath):
 def main():
     print("Mattisson UPDATE-feed gestart\n")
     start = time.time()
-    producten = mc.fetch_products()
+    producten = mc.ontdubbel(mc.fetch_products())
     varianten = sum(len(p["varianten"]) for p in producten)
     if varianten < MIN_VARIANTEN:
         raise SystemExit(

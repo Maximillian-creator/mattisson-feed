@@ -52,6 +52,7 @@ def build_xml(producten):
             add(item, "barcode", v["barcode"])
             add(item, "price", f"{v['prijs']:.2f}")
             add(item, "actieprijs", f"{v['actieprijs']:.2f}")
+            add(item, "quantity", "0")   # geen eigen voorraad; zie scraper.py
             add(item, "available", "true" if v["beschikbaar"] else "false")
             add(item, "variant_title", v["titel"])
             add(item, "image", afbeeldingen[0] if afbeeldingen else "")
@@ -96,7 +97,7 @@ def save_xml(root, filepath):
 def main():
     print("Mattisson ADD-feed gestart\n")
     start = time.time()
-    producten = mc.fetch_products()
+    producten = mc.ontdubbel(mc.fetch_products())
     varianten = sum(len(p["varianten"]) for p in producten)
     if varianten < MIN_VARIANTEN:
         raise SystemExit(
