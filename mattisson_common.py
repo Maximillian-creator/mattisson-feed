@@ -36,6 +36,7 @@ Een product testen: TEST_URL=<volledige productpagina-url>.
 Beperken tijdens ontwikkelen: MAX_PRODUCTEN=10.
 """
 
+import concurrent.futures as cf
 import json
 import os
 import re
@@ -48,6 +49,11 @@ BASE_URL = "https://www.mattisson.nl"
 SITEMAP_URL = f"{BASE_URL}/sitemap.xml"
 BRAND = "Mattisson"
 REQUEST_DELAY = 0.4
+# Hoeveel productpagina's tegelijk. Standaard EEN, en dat is gemeten, niet
+# gegokt: 40 pagina's kostten 37s met een worker en 49s met acht. Mattisson
+# knijpt per bezoeker af, dus meer tegelijk maakt elke losse pagina trager.
+# De knop blijft staan voor als hun kant ooit verandert.
+WORKERS = int(os.environ.get("MATTISSON_WORKERS") or 1)
 
 # Anti-archiveerslot: onder deze grens schrijven de scrapers geen feed weg.
 # Stock Sync archiveert producten die niet in de feed staan, dus een halve feed
@@ -64,6 +70,11 @@ if not VERIFY_SSL:
     import urllib3
     urllib3.disable_warnings()
 
+# Een sessie hergebruikt de TLS-verbinding; zonder dit kost elke pagina een
+# nieuwe handdruk. Requests-sessies zijn veilig voor gebruik uit meer threads.
+SESSIE = requests.Session()
+SESSIE.headers.update(HEADERS)
+
 LD_RE = re.compile(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', re.DOTALL)
 EAN_TABEL_RE = re.compile(r'data-th="EAN-code"[^>]*>\s*([0-9]{8,14})\s*<')
 EAN_RE = re.compile(r"^[0-9]{8,14}$")
@@ -72,7 +83,7 @@ EAN_RE = re.compile(r"^[0-9]{8,14}$")
 def _get(url, retries=3):
     for attempt in range(retries):
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=30, verify=VERIFY_SSL)
+            resp = SESSIE.get(url, timeout=30, verify=VERIFY_SSL)
             resp.raise_for_status()
             return resp
         except requests.HTTPError as e:
@@ -112,10 +123,10 @@ def sitemap_urls():
 
 
 def _graphql(query, variables=None):
-    resp = requests.post(
+    resp = SESSIE.post(
         f"{BASE_URL}/graphql",
         json={"query": query, "variables": variables or {}},
-        headers={**HEADERS, "Content-Type": "application/json"},
+        headers={"Content-Type": "application/json"},
         timeout=60, verify=VERIFY_SSL,
     )
     resp.raise_for_status()
@@ -303,10 +314,10 @@ def graphql_producten(url_keys, batch=60):
     uit = {}
     for i in range(0, len(url_keys), batch):
         deel = url_keys[i:i + batch]
-        resp = requests.post(
+        resp = SESSIE.post(
             f"{BASE_URL}/graphql",
             json={"query": GRAPHQL_QUERY, "variables": {"keys": deel}},
-            headers={**HEADERS, "Content-Type": "application/json"},
+            headers={"Content-Type": "application/json"},
             timeout=60, verify=VERIFY_SSL,
         )
         resp.raise_for_status()
@@ -338,6 +349,25 @@ def graphql_producten(url_keys, batch=60):
             uit[item.get("url_key")] = varianten
         time.sleep(REQUEST_DELAY)
     return uit
+
+
+def _pagina_stroom(urls):
+    """Haalt de pagina's op met WORKERS tegelijk; levert (url, html, fout).
+
+    Een productpagina van mattisson.nl is ~800 kB, dus een run van 446 pagina's
+    sleept 370 MB binnen; daar gaat de tijd heen. Wat wel scheelt is de
+    hergebruikte verbinding (SESSIE) en het wegvallen van de vaste wachttijd
+    per pagina - samen ruim drie minuten per run. Meer tegelijk ophalen scheelt
+    niets (zie WORKERS).
+    """
+    with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        taken = {pool.submit(_get, url): url for url in urls}
+        for taak in cf.as_completed(taken):
+            url = taken[taak]
+            try:
+                yield url, taak.result().text, None
+            except Exception as e:
+                yield url, None, e
 
 
 def parse_pagina(url, html):
@@ -445,12 +475,10 @@ def fetch_products():
     print(f"GraphQL: {len(gql)} van de {len(urls)} url-sleutels gevonden")
 
     producten, overgeslagen, losse = [], [], []
-    for i, url in enumerate(urls, 1):
+    for i, (url, html, fout) in enumerate(_pagina_stroom(urls), 1):
         handle = _handle(url)
-        try:
-            html = _get(url).text
-        except Exception as e:
-            overgeslagen.append((handle, f"pagina onbereikbaar: {e}"))
+        if fout is not None:
+            overgeslagen.append((handle, f"pagina onbereikbaar: {fout}"))
             continue
         pagina = parse_pagina(url, html)
         if pagina is None:
@@ -468,7 +496,6 @@ def fetch_products():
                 producten.append(pagina)
         if i % 50 == 0:
             print(f"    ...{i}/{len(urls)} pagina's, {len(producten)} producten")
-        time.sleep(REQUEST_DELAY)
 
     if overgeslagen:
         print(f"\nOvergeslagen: {len(overgeslagen)} pagina's")
