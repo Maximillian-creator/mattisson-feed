@@ -1,0 +1,36 @@
+name: Mattisson ADD-feed Updater
+
+# De ADD-feed bevat álle productinfo (beschrijving met ingrediënten/dosering/
+# claims, afbeeldingen, varianten) om met Stock Sync NIEUWE producten aan te maken.
+# Draait 1x per week — nieuwe producten verschijnen niet vaak.
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+      - name: ADD-feed scraper draaien
+        run: python add_scraper.py
+      - name: XML committen en pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mattisson_add_feed.xml
+          git diff --staged --quiet || git commit -m "🆕 ADD-feed bijgewerkt: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
