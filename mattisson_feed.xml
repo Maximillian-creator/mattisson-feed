@@ -5005,30 +5005,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT4400</sku>
-    <barcode>8720959402138</barcode>
-    <title>Omega 3 Bloedtest</title>
-    <vendor>Mattisson</vendor>
-    <price>79.00</price>
-    <actieprijs>79.00</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>omega-3-bloedtest</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT4401</sku>
-    <barcode>8720959402145</barcode>
-    <title>Speeksel Test Hormonen Vrouw</title>
-    <vendor>Mattisson</vendor>
-    <price>129.00</price>
-    <actieprijs>129.00</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>speeksel-test-hormonen-vrouw</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT4402</sku>
     <barcode>8720959402152</barcode>
     <title>Speeksel Test Hormonen Man</title>
