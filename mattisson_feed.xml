@@ -1340,7 +1340,7 @@
     <price>3.95</price>
     <actieprijs>3.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-grove-havermout</handle>
     <option1/>
   </product>
@@ -2588,7 +2588,7 @@
     <price>25.95</price>
     <actieprijs>25.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>cbd-olie-5-0</handle>
     <option1>10 ml</option1>
   </product>
@@ -3332,7 +3332,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
