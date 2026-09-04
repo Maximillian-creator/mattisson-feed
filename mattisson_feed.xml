@@ -3344,7 +3344,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-vitamine-d3-75-mcg-3000-ie-60-capsules</handle>
     <option1/>
   </product>
@@ -5672,7 +5672,7 @@
     <price>5.95</price>
     <actieprijs>5.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-edelgistvlokken</handle>
     <option1>60 g</option1>
   </product>
