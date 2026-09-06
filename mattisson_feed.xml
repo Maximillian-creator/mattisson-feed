@@ -4981,54 +4981,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT4178</sku>
-    <barcode>8720959402046</barcode>
-    <title>Vegan Elektrolyten - 180 capsules</title>
-    <vendor>Mattisson</vendor>
-    <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>vegan-elektrolyten-180-capsules</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT4001</sku>
-    <barcode>8720959402237</barcode>
-    <title>Mattisson Tas - Biologisch Katoen</title>
-    <vendor>Mattisson</vendor>
-    <price>18.95</price>
-    <actieprijs>18.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>mattisson-tas</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT4402</sku>
-    <barcode>8720959402152</barcode>
-    <title>Speeksel Test Hormonen Man</title>
-    <vendor>Mattisson</vendor>
-    <price>129.00</price>
-    <actieprijs>129.00</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>speeksel-test-hormonen-man</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT4403</sku>
-    <barcode>8720959402169</barcode>
-    <title>Microbioom onderzoek XL</title>
-    <vendor>Mattisson</vendor>
-    <price>259.00</price>
-    <actieprijs>259.00</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>microbioom-onderzoek-xl</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT4404</sku>
     <barcode>8720959402176</barcode>
     <title>Voedsel Intolerantietest Plus</title>
