@@ -373,30 +373,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT2328</sku>
-    <barcode>8717677968824</barcode>
-    <title>Calcium Citraat poeder - 125 g</title>
-    <vendor>Mattisson</vendor>
-    <price>19.95</price>
-    <actieprijs>19.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>calcium-citraat-poeder</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT4103</sku>
-    <barcode>8717677963713</barcode>
-    <title>Biologisch Tarwegras poeder - 125 g</title>
-    <vendor>Mattisson</vendor>
-    <price>8.95</price>
-    <actieprijs>8.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>biologisch-tarwegras-poeder</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT2092</sku>
     <barcode>8717677967186</barcode>
     <title>Biologische Matcha Latte - Gember Ceylon Kaneel - 140 g</title>
@@ -4978,6 +4954,54 @@
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-naturel-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT4178</sku>
+    <barcode>8720959402046</barcode>
+    <title>Vegan Elektrolyten - 180 capsules</title>
+    <vendor>Mattisson</vendor>
+    <price>24.95</price>
+    <actieprijs>18.71</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>vegan-elektrolyten-180-capsules</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT4001</sku>
+    <barcode>8720959402237</barcode>
+    <title>Mattisson Tas - Biologisch Katoen</title>
+    <vendor>Mattisson</vendor>
+    <price>18.95</price>
+    <actieprijs>18.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>mattisson-tas</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT4402</sku>
+    <barcode>8720959402152</barcode>
+    <title>Speeksel Test Hormonen Man</title>
+    <vendor>Mattisson</vendor>
+    <price>129.00</price>
+    <actieprijs>129.00</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>speeksel-test-hormonen-man</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT4403</sku>
+    <barcode>8720959402169</barcode>
+    <title>Microbioom onderzoek XL</title>
+    <vendor>Mattisson</vendor>
+    <price>259.00</price>
+    <actieprijs>259.00</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>microbioom-onderzoek-xl</handle>
     <option1/>
   </product>
   <product>
