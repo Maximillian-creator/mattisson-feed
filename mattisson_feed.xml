@@ -373,6 +373,30 @@
     <option1/>
   </product>
   <product>
+    <sku>MT2328</sku>
+    <barcode>8717677968824</barcode>
+    <title>Calcium Citraat poeder - 125 g</title>
+    <vendor>Mattisson</vendor>
+    <price>19.95</price>
+    <actieprijs>19.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>calcium-citraat-poeder</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT4103</sku>
+    <barcode>8717677963713</barcode>
+    <title>Biologisch Tarwegras poeder - 125 g</title>
+    <vendor>Mattisson</vendor>
+    <price>8.95</price>
+    <actieprijs>8.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>biologisch-tarwegras-poeder</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT2092</sku>
     <barcode>8717677967186</barcode>
     <title>Biologische Matcha Latte - Gember Ceylon Kaneel - 140 g</title>
