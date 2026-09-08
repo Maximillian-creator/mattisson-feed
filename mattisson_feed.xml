@@ -2588,7 +2588,7 @@
     <price>25.95</price>
     <actieprijs>25.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>cbd-olie-5-0</handle>
     <option1>10 ml</option1>
   </product>
@@ -4043,18 +4043,6 @@
     <available>true</available>
     <handle>lactoferrine-95-500-mg</handle>
     <option1>60 caps</option1>
-  </product>
-  <product>
-    <sku>MT1850</sku>
-    <barcode>8720791841591</barcode>
-    <title>Acacia Vezels 83% vezels - 220 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>10.95</price>
-    <actieprijs>10.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>vegan-acacia-vezels-83-vezels-220-gram</handle>
-    <option1/>
   </product>
   <product>
     <sku>MTbundel1</sku>
