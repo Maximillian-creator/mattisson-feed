@@ -522,7 +522,7 @@
     <title>Runder Collageen Blend Peptan® Type I - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-blend-peptanr-type-i-180-capsules</handle>
@@ -534,7 +534,7 @@
     <title>Marine Collageen Blend Peptan® Type I - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-blend-peptanr-type-i-180-capsules</handle>
@@ -582,7 +582,7 @@
     <title>Biologische Runder Botten Bouillon - Beef Bone Broth - 180 g</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>25.95</actieprijs>
+    <actieprijs>19.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-runder-botten-bouillon</handle>
@@ -594,7 +594,7 @@
     <title>Collageen Latte - Cappuccino smaak - 180 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>14.95</actieprijs>
+    <actieprijs>11.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-latte-cappuccino-smaak</handle>
@@ -858,7 +858,7 @@
     <title>Runder Botten Bouillon - Beef Bone Broth - 250 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-botten-bouillon</handle>
@@ -1002,7 +1002,7 @@
     <title>AlkaGreens poeder - Marine Collageen - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>31.95</price>
-    <actieprijs>31.95</actieprijs>
+    <actieprijs>23.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-alkagreens-poeder</handle>
@@ -1110,7 +1110,7 @@
     <title>Runder Collageen Poeder Peptan® Puur - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>22.95</price>
-    <actieprijs>22.95</actieprijs>
+    <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-peptanr-puur</handle>
@@ -1122,7 +1122,7 @@
     <title>Marine Collageen Poeder Peptan® Puur - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>34.95</actieprijs>
+    <actieprijs>26.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-poeder-peptanr-puur</handle>
@@ -1134,7 +1134,7 @@
     <title>Runder Collageen Poeder Peptan® Blend - Vanille smaak - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>23.95</actieprijs>
+    <actieprijs>17.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-peptanr-blend-vanille-smaak</handle>
@@ -1146,7 +1146,7 @@
     <title>Marine Collageen Poeder Peptan® Blend - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>35.95</price>
-    <actieprijs>35.95</actieprijs>
+    <actieprijs>26.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-poeder-peptanr-blend</handle>
@@ -1158,7 +1158,7 @@
     <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-solugelr-grass-fed</handle>
@@ -1410,7 +1410,7 @@
     <title>Kippen Botten Bouillon - Chicken Bone Broth - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>25.95</actieprijs>
+    <actieprijs>19.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>kippen-botten-bouillon</handle>
@@ -1520,7 +1520,7 @@
     <price>39.95</price>
     <actieprijs>29.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-wei-proteine-poeder-75-cacao</handle>
     <option1/>
   </product>
@@ -2346,7 +2346,7 @@
     <title>Collageen - Colartix® - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>46.95</price>
-    <actieprijs>46.95</actieprijs>
+    <actieprijs>35.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-blend-capsules-colartixr</handle>
@@ -2358,7 +2358,7 @@
     <title>Collageen - Colartix® - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>23.95</actieprijs>
+    <actieprijs>17.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-blend-capsules-colartixr</handle>
@@ -3006,7 +3006,7 @@
     <title>Biologische Botten Bouillon Gevogelte - Bone Broth Poultry - 240ml</title>
     <vendor>Mattisson</vendor>
     <price>6.95</price>
-    <actieprijs>6.95</actieprijs>
+    <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>organic-poultry-bone-broth-botten-boullion-gevogelte-240ml</handle>
@@ -3030,7 +3030,7 @@
     <title>Biologische Runder Botten Bouillon - Beef Bone Broth - 240 ml</title>
     <vendor>Mattisson</vendor>
     <price>6.95</price>
-    <actieprijs>6.95</actieprijs>
+    <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-runder-botten-bouillon-beef-bone-broth-240-ml</handle>
@@ -3126,7 +3126,7 @@
     <title>Vegan Reds Blend poeder - Collagen Alternative - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>27.95</price>
-    <actieprijs>27.95</actieprijs>
+    <actieprijs>20.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>reds-blend-collageen-poeder</handle>
@@ -3138,7 +3138,7 @@
     <title>Vegan Collagen Alternative - 60 Capsules</title>
     <vendor>Mattisson</vendor>
     <price>20.95</price>
-    <actieprijs>20.95</actieprijs>
+    <actieprijs>15.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-booster-capsules</handle>
@@ -3188,7 +3188,7 @@
     <price>20.95</price>
     <actieprijs>20.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>omega-3-visolie-1000-mg-dha-230-mg-epa-455-mg-60-capsules</handle>
     <option1/>
   </product>
@@ -3320,7 +3320,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -3738,7 +3738,7 @@
     <title>Biologische Bone Broth - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-bone-broth-180-capsules</handle>
@@ -4458,7 +4458,7 @@
     <title>Biologische Vegan Broth Miso Shiitake - 240 ml</title>
     <vendor>Mattisson</vendor>
     <price>6.95</price>
-    <actieprijs>6.95</actieprijs>
+    <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-broth-miso-shiitake-240-ml</handle>
@@ -4470,7 +4470,7 @@
     <title>Biologische Thai Chicken Bone Broth - 240 ml</title>
     <vendor>Mattisson</vendor>
     <price>6.95</price>
-    <actieprijs>6.95</actieprijs>
+    <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>thai-chicken-bone-broth-240-ml</handle>
