@@ -4225,30 +4225,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT2399</sku>
-    <barcode>8720791841690</barcode>
-    <title>Actief foliumzuur - vitamine B11 - 60 tabletten </title>
-    <vendor>Mattisson</vendor>
-    <price>13.95</price>
-    <actieprijs>13.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>actief-foliumzuur-60-tabletten</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT1839</sku>
-    <barcode>8720959400899</barcode>
-    <title>Vegan Postbiotic EpiCor® 500 mg - 60 capsules</title>
-    <vendor>Mattisson</vendor>
-    <price>31.95</price>
-    <actieprijs>31.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>vegan-postbiotic-500-mg-60-capsules</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT4180</sku>
     <barcode>8720791841614</barcode>
     <title>Elektrolyten Poeder Lemon - Electrolytes - 300g</title>
