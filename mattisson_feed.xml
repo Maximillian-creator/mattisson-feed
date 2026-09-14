@@ -714,7 +714,7 @@
     <title>Magnesium Bisglycinaat poeder - 11% elementair Magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-poeder-11-elementair-magnesium</handle>
@@ -726,7 +726,7 @@
     <title>Magnesium Citraat poeder - 15% elementair Magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>16.95</price>
-    <actieprijs>12.71</actieprijs>
+    <actieprijs>16.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-poeder-15-elementair-magnesium</handle>
@@ -846,7 +846,7 @@
     <title>Biologische Pompoenpit Proteïne poeder 58% - 250 g</title>
     <vendor>Mattisson</vendor>
     <price>13.95</price>
-    <actieprijs>10.46</actieprijs>
+    <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-pompoenpit-proteine-poeder-58</handle>
@@ -1206,7 +1206,7 @@
     <title>Vegan MCT poeder - 330 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-mct-poeder-puur-kokosnoot</handle>
@@ -1218,7 +1218,7 @@
     <title>Biologische Amandel Proteïne 50% - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>17.96</actieprijs>
+    <actieprijs>23.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-amandel-proteine-50</handle>
@@ -1254,7 +1254,7 @@
     <title>Erwten Proteïne 86% - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>11.21</actieprijs>
+    <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>erwten-proteine-86</handle>
@@ -1266,7 +1266,7 @@
     <title>Erwten Proteïne Vanille 80% - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>11.21</actieprijs>
+    <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>erwten-proteine-vanille-80-350-g</handle>
@@ -1278,7 +1278,7 @@
     <title>Biologische Erwten Proteïne gefermenteerd 80% - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>18.95</price>
-    <actieprijs>14.21</actieprijs>
+    <actieprijs>18.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-erwten-proteine-80</handle>
@@ -1290,7 +1290,7 @@
     <title>Biologische Soja Proteïne poeder 90% - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>15.95</price>
-    <actieprijs>11.96</actieprijs>
+    <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-soja-proteine-poeder-90</handle>
@@ -1302,7 +1302,7 @@
     <title>Vegan Keto Proteïne Shake - Erwten, rijst &amp; MCT - 350 g</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-keto-proteine-shake-erwten-rijst-mct</handle>
@@ -1350,7 +1350,7 @@
     <title>Kikkererwt proteïne poeder 63% - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>kikkererwt-proteine-poeder-63</handle>
@@ -1362,7 +1362,7 @@
     <title>Biologische Hennep Proteïne poeder 57% - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-hennep-proteine-poeder-57</handle>
@@ -1374,7 +1374,7 @@
     <title>Rijst Proteïne Poeder Naturel 80% - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>11.21</actieprijs>
+    <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>rijst-proteine-poeder-naturel-80</handle>
@@ -1386,7 +1386,7 @@
     <title>Zonnebloem Proteïne poeder 45% - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>11.21</actieprijs>
+    <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>zonnebloem-proteine-poeder-45</handle>
@@ -1398,7 +1398,7 @@
     <title>Biologische Vegan Proteïne Blend poeder 67% - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>21.95</price>
-    <actieprijs>16.46</actieprijs>
+    <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-vegan-proteine-blend-poeder-67</handle>
@@ -1518,7 +1518,7 @@
     <title>Biologische Wei Proteïne poeder 75% - Cacao - 450 g</title>
     <vendor>Mattisson</vendor>
     <price>39.95</price>
-    <actieprijs>29.96</actieprijs>
+    <actieprijs>39.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-75-cacao</handle>
@@ -1530,7 +1530,7 @@
     <title>Wei Proteïne poeder 78% - Vanille - 450 g</title>
     <vendor>Mattisson</vendor>
     <price>29.95</price>
-    <actieprijs>22.46</actieprijs>
+    <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>sport-wei-proteine-poeder-78-vanille</handle>
@@ -1542,7 +1542,7 @@
     <title>Wei Proteïne poeder 80% - Naturel - 450 g</title>
     <vendor>Mattisson</vendor>
     <price>29.95</price>
-    <actieprijs>22.46</actieprijs>
+    <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>sport-wei-proteine-poeder-80-naturel</handle>
@@ -1590,7 +1590,7 @@
     <title>Biologische Rijst Proteïne Poeder 80% - Naturel - 500 g</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-rijst-proteine-poeder-naturel-80</handle>
@@ -1602,7 +1602,7 @@
     <title>Rijst Proteïne poeder 80% - Vanille -  500 g</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>13.46</actieprijs>
+    <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>rijst-proteine-poeder-vanille-80</handle>
@@ -1614,7 +1614,7 @@
     <title>Zeewier Eiwit SuperShake 80% - Vanille - 500 g</title>
     <vendor>Mattisson</vendor>
     <price>29.95</price>
-    <actieprijs>22.46</actieprijs>
+    <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>zeewier-eiwit-supershake-80-vanille</handle>
@@ -1698,7 +1698,7 @@
     <title>Biologische MCT Olie Blend - C8 &amp; C10 - 500 ml</title>
     <vendor>Mattisson</vendor>
     <price>20.95</price>
-    <actieprijs>15.71</actieprijs>
+    <actieprijs>20.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-mct-olie-blend-c8-c10</handle>
@@ -2238,7 +2238,7 @@
     <title>Aquamin Magnesium - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>13.46</actieprijs>
+    <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-aquamin-magnesium-capsules</handle>
@@ -2370,7 +2370,7 @@
     <title>MCT Olie C8 - 99% Caprylzuur - 1 L</title>
     <vendor>Mattisson</vendor>
     <price>38.95</price>
-    <actieprijs>29.21</actieprijs>
+    <actieprijs>38.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>mct-olie-c8-99-caprylzuur</handle>
@@ -2382,7 +2382,7 @@
     <title>MCT Olie C8 - 99% Caprylzuur - 250 ml</title>
     <vendor>Mattisson</vendor>
     <price>13.45</price>
-    <actieprijs>10.09</actieprijs>
+    <actieprijs>13.45</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>mct-olie-c8-99-caprylzuur</handle>
@@ -2394,7 +2394,7 @@
     <title>MCT Olie C8 - 95% Caprylzuur - 500 ml</title>
     <vendor>Mattisson</vendor>
     <price>20.95</price>
-    <actieprijs>15.71</actieprijs>
+    <actieprijs>20.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>mct-olie-c8-99-caprylzuur</handle>
@@ -2406,7 +2406,7 @@
     <title>MCT Olie Blend - C8 &amp; C10 - 250 ml</title>
     <vendor>Mattisson</vendor>
     <price>13.45</price>
-    <actieprijs>10.09</actieprijs>
+    <actieprijs>13.45</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>mct-olie-blend-c8-c10</handle>
@@ -2418,7 +2418,7 @@
     <title>MCT Olie Blend - C8 &amp; C10 - 500 ml</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>mct-olie-blend-c8-c10</handle>
@@ -2778,7 +2778,7 @@
     <title>Magnesium Tauraat met Vitamine B6 - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-tauraat-capsules-met-vitamine-b6</handle>
@@ -2790,7 +2790,7 @@
     <title>Magnesium Tauraat met Vitamine B6 - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>15.95</price>
-    <actieprijs>11.96</actieprijs>
+    <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-tauraat-capsules-met-vitamine-b6</handle>
@@ -2802,7 +2802,7 @@
     <title>Magnesium Citraat 400 mg - 60 mg elementair magnesium - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>17.96</actieprijs>
+    <actieprijs>23.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
@@ -2814,7 +2814,7 @@
     <title>Magnesium Citraat - 60 mg elementair magnesium - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>9.95</price>
-    <actieprijs>7.46</actieprijs>
+    <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
@@ -3090,7 +3090,7 @@
     <title>Biologische MCT Olie C8 - 500ml</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>17.96</actieprijs>
+    <actieprijs>23.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-mct-olie-c8-500ml</handle>
@@ -3354,7 +3354,7 @@
     <title>Biologische Vegan Proteïne Blend 63% - Vanille - 400 g</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>17.96</actieprijs>
+    <actieprijs>23.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-vegan-proteine-blend-63-vanille-400-g</handle>
@@ -3378,7 +3378,7 @@
     <title>Magnesium Citraat - 200 mg elementair Magnesium - 60 tabletten </title>
     <vendor>Mattisson</vendor>
     <price>13.95</price>
-    <actieprijs>10.46</actieprijs>
+    <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-200-mg-elementair-magnesium-60-tabletten</handle>
@@ -3498,7 +3498,7 @@
     <title>Wei Proteïne poeder - Isolaat 93% - 500 g</title>
     <vendor>Mattisson</vendor>
     <price>44.95</price>
-    <actieprijs>33.71</actieprijs>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>wei-proteine-poeder-isolaat-93-500-g</handle>
@@ -3534,7 +3534,7 @@
     <title>Magnesium Malaat poeder 173 mg - 11,5% elementair magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>19.46</actieprijs>
+    <actieprijs>25.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-malaat-poeder-173-mg-11-5-elementair-magnesium-200-g</handle>
@@ -3546,7 +3546,7 @@
     <title>Magnesium Malaat 81 mg - 11,5% elementair magnesium - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-malaat-81-mg-11-5-elementair-magnesium-60-capsules</handle>
@@ -3558,7 +3558,7 @@
     <title>Magnesium Citraat Malaat Poeder 195 mg - 13% elementair magnesium - 125 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-malaat-poeder-195-mg-13-elementair-magnesium-200-g</handle>
@@ -3570,7 +3570,7 @@
     <title>Magnesium Citraat Malaat Capsules 86 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-malaat-capsules-86-mg-120-capsules</handle>
@@ -3774,7 +3774,7 @@
     <title>Magnesium Tauraat Poeder - 250 gram</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>19.46</actieprijs>
+    <actieprijs>25.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-magnesium-tauraat-poeder-250-gram</handle>
@@ -3942,7 +3942,7 @@
     <title>Vegan BCAA - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>27.95</price>
-    <actieprijs>20.96</actieprijs>
+    <actieprijs>27.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-bcaa-120-capsules</handle>
@@ -3954,7 +3954,7 @@
     <title>Vegan BCAA - 250 gram</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-bcaa-250-gram</handle>
@@ -3966,7 +3966,7 @@
     <title>Creatine Monohydraat Poeder - Creapure® - 350 gram </title>
     <vendor>Mattisson</vendor>
     <price>39.95</price>
-    <actieprijs>29.96</actieprijs>
+    <actieprijs>39.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>creatine-monohydraat-poeder-creapurer-350-gram-1</handle>
@@ -3978,7 +3978,7 @@
     <title>Creatine Monohydraat - Creapure® - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>creatine-monohydraat-creapurer-180-capsules-1</handle>
@@ -4062,7 +4062,7 @@
     <title>Magnesium Badzout - 900 gram</title>
     <vendor>Mattisson</vendor>
     <price>9.95</price>
-    <actieprijs>7.46</actieprijs>
+    <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-badzout-900-gram</handle>
@@ -4086,7 +4086,7 @@
     <title>Biologisch Vegan proteïne poeder - Erwten &amp; Rijst - 500 g</title>
     <vendor>Mattisson</vendor>
     <price>21.95</price>
-    <actieprijs>16.46</actieprijs>
+    <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>organic-vegan-protein-erwten-rijst</handle>
@@ -4098,7 +4098,7 @@
     <title>Biologisch Vegan proteïne poeder - Erwten &amp; Rijst - Vanille - 500 g</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>17.96</actieprijs>
+    <actieprijs>23.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>organic-vegan-protein-erwten-rijst-vanille</handle>
@@ -4254,7 +4254,7 @@
     <title>Elektrolyten Poeder Lemon - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-lemon-300g</handle>
@@ -4386,7 +4386,7 @@
     <title>Calcium, Magnesium &amp; Zink - 90 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>15.95</price>
-    <actieprijs>11.96</actieprijs>
+    <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>calcium-magnesium-zink-90-tabletten</handle>
@@ -4518,7 +4518,7 @@
     <title>Elektrolyten Poeder Forest Fruit - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-forest-fruit-electrolytes-300g</handle>
@@ -4530,7 +4530,7 @@
     <title>Elektrolyten Poeder Peach - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-peach-electrolytes-300g</handle>
@@ -4626,7 +4626,7 @@
     <title>Shakebeker RVS - 750 ml</title>
     <vendor>Mattisson</vendor>
     <price>16.95</price>
-    <actieprijs>12.71</actieprijs>
+    <actieprijs>16.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>shakebeker-rvs-750-ml</handle>
@@ -4650,7 +4650,7 @@
     <title>Multi Magnesium poeder - 250 mg  complex - 200 gram</title>
     <vendor>Mattisson</vendor>
     <price>28.95</price>
-    <actieprijs>21.71</actieprijs>
+    <actieprijs>28.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>multi-magnesium-poeder-250-mg-complex-200-gram</handle>
@@ -4878,7 +4878,7 @@
     <title>Sport Bundel</title>
     <vendor>Mattisson</vendor>
     <price>75.85</price>
-    <actieprijs>56.89</actieprijs>
+    <actieprijs>63.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>sport-bundel</handle>
@@ -4962,7 +4962,7 @@
     <title>Elektrolyten Poeder Natural - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-naturel-300-gram</handle>
@@ -4974,7 +4974,7 @@
     <title>Vegan Elektrolyten - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-elektrolyten-180-capsules</handle>
@@ -5130,7 +5130,7 @@
     <title>Multi Magnesium 200 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-multi-magnesium-200-mg-120-capsules</handle>
@@ -5142,7 +5142,7 @@
     <title>Magnesium Bisglycinaat 150 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-150-mg-120-capsules</handle>
@@ -5154,7 +5154,7 @@
     <title>Biologische Magnesium 100 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-magnesium-100-mg-60-capsules</handle>
@@ -5382,7 +5382,7 @@
     <title>Multi Magnesium - 200mg complex - 180 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>49.95</price>
-    <actieprijs>37.46</actieprijs>
+    <actieprijs>49.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>multi-magnesium-200mg-complex-tabletten</handle>
@@ -5394,7 +5394,7 @@
     <title>Multi Magnesium - 200mg complex - 90 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>26.96</price>
-    <actieprijs>20.22</actieprijs>
+    <actieprijs>26.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>multi-magnesium-200mg-complex-tabletten</handle>
@@ -5454,7 +5454,7 @@
     <title>Magnesium Bisglycinaat 833mg - 90 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-tabletten-100-mg-elementair</handle>
@@ -5466,7 +5466,7 @@
     <title>Magnesium Bisglycinaat 833mg - 180 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>26.21</actieprijs>
+    <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-tabletten-100-mg-elementair</handle>
@@ -5550,7 +5550,7 @@
     <title>Fava bonen proteïne - Tuinboon eiwitisolaat - 400 gram</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>13.46</actieprijs>
+    <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>fava-bonen-proteine-tuinboon-eiwitisolaat-400-gram</handle>
@@ -5622,7 +5622,7 @@
     <title>Elektrolyten Poeder Strawberry Lime - 300 gram</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-strawberry-lime-300-gram</handle>
@@ -5634,7 +5634,7 @@
     <title>Elektrolyten Poeder Lemon Mint - 300 gram</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>20.21</actieprijs>
+    <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-lemon-mint-300-gram</handle>
@@ -5682,7 +5682,7 @@
     <title>Biologische Wei Proteïne Poeder Naturel 80% - 1000 gram</title>
     <vendor>Mattisson</vendor>
     <price>69.95</price>
-    <actieprijs>52.46</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-naturel</handle>
@@ -5694,7 +5694,7 @@
     <title>Biologische Wei Proteïne poeder 80% - Naturel - 450 g</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>26.21</actieprijs>
+    <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-naturel</handle>
@@ -5706,7 +5706,7 @@
     <title>Biologische Wei Proteïne Poeder Vanille 75% - 1000 gram</title>
     <vendor>Mattisson</vendor>
     <price>69.95</price>
-    <actieprijs>52.46</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
@@ -5718,7 +5718,7 @@
     <title>Biologische Wei Proteïne poeder 75% - Vanille - 450 g</title>
     <vendor>Mattisson</vendor>
     <price>39.95</price>
-    <actieprijs>29.96</actieprijs>
+    <actieprijs>39.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
