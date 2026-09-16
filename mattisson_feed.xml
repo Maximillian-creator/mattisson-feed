@@ -3320,7 +3320,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -5723,5 +5723,29 @@
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
     <option1>450 g</option1>
+  </product>
+  <product>
+    <sku>MT2999</sku>
+    <barcode>8720959403883</barcode>
+    <title>Collageen Complex 3-voudig - Strawberry Lime - 300 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>49.95</price>
+    <actieprijs>37.46</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>collageen-complex-3-voudig-strawberry-lime-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT2998</sku>
+    <barcode>8720959403982</barcode>
+    <title>Marine Collageen Complex - 120 capsules</title>
+    <vendor>Mattisson</vendor>
+    <price>29.95</price>
+    <actieprijs>22.46</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>marine-collageen-complex-120-capsules</handle>
+    <option1/>
   </product>
 </products>
