@@ -2216,7 +2216,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vitamine-c-gebufferd-1000mg-capsules</handle>
     <option1/>
   </product>
@@ -3320,7 +3320,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -4856,7 +4856,7 @@
     <price>50.85</price>
     <actieprijs>41.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>energie-bundel</handle>
     <option1/>
   </product>
