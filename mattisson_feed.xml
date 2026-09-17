@@ -5677,6 +5677,30 @@
     <option1>200 g</option1>
   </product>
   <product>
+    <sku>MT2999</sku>
+    <barcode>8720959403883</barcode>
+    <title>Collageen Complex 3-voudig - Strawberry Lime - 300 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>49.95</price>
+    <actieprijs>37.46</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>collageen-complex-3-voudig-strawberry-lime-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT2998</sku>
+    <barcode>8720959403982</barcode>
+    <title>Marine Collageen Complex - 120 capsules</title>
+    <vendor>Mattisson</vendor>
+    <price>29.95</price>
+    <actieprijs>22.46</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>marine-collageen-complex-120-capsules</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT2838</sku>
     <barcode>8720959402442</barcode>
     <title>Biologische Wei Proteïne Poeder Naturel 80% - 1000 gram</title>
@@ -5723,29 +5747,5 @@
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
     <option1>450 g</option1>
-  </product>
-  <product>
-    <sku>MT2999</sku>
-    <barcode>8720959403883</barcode>
-    <title>Collageen Complex 3-voudig - Strawberry Lime - 300 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>49.95</price>
-    <actieprijs>37.46</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>collageen-complex-3-voudig-strawberry-lime-300-gram</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT2998</sku>
-    <barcode>8720959403982</barcode>
-    <title>Marine Collageen Complex - 120 capsules</title>
-    <vendor>Mattisson</vendor>
-    <price>29.95</price>
-    <actieprijs>22.46</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>marine-collageen-complex-120-capsules</handle>
-    <option1/>
   </product>
 </products>
