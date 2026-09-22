@@ -2528,7 +2528,7 @@
     <price>18.95</price>
     <actieprijs>18.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>keltisch-zeezout-grof-celtic-seasalt-navulzak</handle>
     <option1>5000 g</option1>
   </product>
@@ -4808,7 +4808,7 @@
     <price>81.85</price>
     <actieprijs>67.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>basis-vrouw-bundel</handle>
     <option1/>
   </product>
@@ -4820,7 +4820,7 @@
     <price>81.85</price>
     <actieprijs>67.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>basis-man-bundel</handle>
     <option1/>
   </product>
@@ -5396,7 +5396,7 @@
     <price>26.96</price>
     <actieprijs>26.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>multi-magnesium-200mg-complex-tabletten</handle>
     <option1>90 tabl</option1>
   </product>
