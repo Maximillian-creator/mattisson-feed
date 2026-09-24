@@ -2984,7 +2984,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-ghee-geklaarde-boter</handle>
     <option1>300 g</option1>
   </product>
@@ -5192,7 +5192,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>sleep-well-etherische-olie-10-ml</handle>
     <option1/>
   </product>
