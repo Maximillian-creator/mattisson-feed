@@ -1340,7 +1340,7 @@
     <price>4.45</price>
     <actieprijs>4.45</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>keltisch-zeezout-grof-400-g</handle>
     <option1/>
   </product>
