@@ -4808,7 +4808,7 @@
     <price>81.85</price>
     <actieprijs>67.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>basis-vrouw-bundel</handle>
     <option1/>
   </product>
@@ -4820,7 +4820,7 @@
     <price>81.85</price>
     <actieprijs>67.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>basis-man-bundel</handle>
     <option1/>
   </product>
@@ -5192,7 +5192,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>sleep-well-etherische-olie-10-ml</handle>
     <option1/>
   </product>
@@ -5375,6 +5375,30 @@
     <available>true</available>
     <handle>biologische-lion-s-mane-500-mg</handle>
     <option1>120 caps</option1>
+  </product>
+  <product>
+    <sku>MT2311</sku>
+    <barcode>8720959400660</barcode>
+    <title>Multi Magnesium - 200mg complex - 180 tabletten</title>
+    <vendor>Mattisson</vendor>
+    <price>49.95</price>
+    <actieprijs>49.95</actieprijs>
+    <quantity>0</quantity>
+    <available>false</available>
+    <handle>multi-magnesium-200mg-complex-tabletten</handle>
+    <option1>180 tabl</option1>
+  </product>
+  <product>
+    <sku>MT2312</sku>
+    <barcode>8720791841706</barcode>
+    <title>Multi Magnesium - 200mg complex - 90 tabletten</title>
+    <vendor>Mattisson</vendor>
+    <price>26.96</price>
+    <actieprijs>26.96</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>multi-magnesium-200mg-complex-tabletten</handle>
+    <option1>90 tabl</option1>
   </product>
   <product>
     <sku>MT1996</sku>
