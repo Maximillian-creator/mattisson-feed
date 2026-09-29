@@ -2984,7 +2984,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-ghee-geklaarde-boter</handle>
     <option1>300 g</option1>
   </product>
