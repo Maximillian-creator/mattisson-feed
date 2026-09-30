@@ -5648,7 +5648,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-edelgistvlokken</handle>
     <option1>200 g</option1>
   </product>
