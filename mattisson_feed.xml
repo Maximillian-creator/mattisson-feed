@@ -1880,7 +1880,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>amla-berry-extract-500mg-60-capsules</handle>
     <option1/>
   </product>
@@ -3320,7 +3320,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -4050,7 +4050,7 @@
     <title>Darm &amp; Spijsvertering Bundel</title>
     <vendor>Mattisson</vendor>
     <price>51.90</price>
-    <actieprijs>42.40</actieprijs>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>darm-spijsvertering-bundel</handle>
@@ -4793,8 +4793,8 @@
     <barcode>8720959402428</barcode>
     <title>Hormoonbalans Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>56.90</price>
-    <actieprijs>47.95</actieprijs>
+    <price>59.90</price>
+    <actieprijs>49.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>hormoonbalans-bundel</handle>
@@ -4806,7 +4806,7 @@
     <title>Basis Vrouw Bundel</title>
     <vendor>Mattisson</vendor>
     <price>81.85</price>
-    <actieprijs>67.95</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>basis-vrouw-bundel</handle>
@@ -4818,7 +4818,7 @@
     <title>Basis Man Bundel</title>
     <vendor>Mattisson</vendor>
     <price>81.85</price>
-    <actieprijs>67.95</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>basis-man-bundel</handle>
@@ -4829,8 +4829,8 @@
     <barcode>8720959401926</barcode>
     <title>Immuunsysteem Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>50.85</price>
-    <actieprijs>41.95</actieprijs>
+    <price>53.85</price>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>immuunsysteem-bundel</handle>
@@ -4841,8 +4841,8 @@
     <barcode>8720959402411</barcode>
     <title>Slaap &amp; Ontspanning Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>35.90</price>
-    <actieprijs>29.95</actieprijs>
+    <price>39.90</price>
+    <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>slaap-ontspanning-bundel</handle>
@@ -4853,8 +4853,8 @@
     <barcode>8720959401940</barcode>
     <title>Energie Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>50.85</price>
-    <actieprijs>41.95</actieprijs>
+    <price>53.85</price>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>energie-bundel</handle>
@@ -4865,8 +4865,8 @@
     <barcode>8720959401957</barcode>
     <title>Gemoedstoestand Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>59.90</price>
-    <actieprijs>49.95</actieprijs>
+    <price>63.90</price>
+    <actieprijs>54.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>gemoedstoestand-bundel</handle>
@@ -4877,8 +4877,8 @@
     <barcode>8720959401964</barcode>
     <title>Sport Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>75.85</price>
-    <actieprijs>63.95</actieprijs>
+    <price>86.85</price>
+    <actieprijs>74.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>sport-bundel</handle>
@@ -4889,8 +4889,8 @@
     <barcode>8720959401971</barcode>
     <title>50+ Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>64.85</price>
-    <actieprijs>54.95</actieprijs>
+    <price>68.85</price>
+    <actieprijs>59.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>50-bundel</handle>
@@ -4901,8 +4901,8 @@
     <barcode>8720959401988</barcode>
     <title>Zwanger/Mama Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>65.85</price>
-    <actieprijs>55.95</actieprijs>
+    <price>83.85</price>
+    <actieprijs>71.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>zwanger-mama-bundel</handle>
@@ -4913,8 +4913,8 @@
     <barcode>8720959401995</barcode>
     <title>Botten, Gewrichten &amp; Spieren Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>31.90</price>
-    <actieprijs>26.95</actieprijs>
+    <price>34.90</price>
+    <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>botten-gewrichten-spieren-bundel</handle>
@@ -4925,8 +4925,8 @@
     <barcode>8720959402008</barcode>
     <title>Focus Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>61.85</price>
-    <actieprijs>51.95</actieprijs>
+    <price>67.85</price>
+    <actieprijs>57.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>focus-bundel</handle>
@@ -5057,8 +5057,8 @@
     <barcode>8720959402299</barcode>
     <title>Beauty Bundel</title>
     <vendor>Mattisson</vendor>
-    <price>74.85</price>
-    <actieprijs>61.95</actieprijs>
+    <price>76.85</price>
+    <actieprijs>64.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>beauty-bundel</handle>
