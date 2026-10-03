@@ -5677,6 +5677,18 @@
     <option1/>
   </product>
   <product>
+    <sku>MT4175</sku>
+    <barcode>8720959403968</barcode>
+    <title>Creatine Monohydraat - 300 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>14.95</price>
+    <actieprijs>11.21</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>creatine-monohydraat-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT2838</sku>
     <barcode>8720959402442</barcode>
     <title>Biologische Wei Proteïne Poeder Naturel 80% - 1000 gram</title>
@@ -5723,17 +5735,5 @@
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
     <option1>450 g</option1>
-  </product>
-  <product>
-    <sku>MT4175</sku>
-    <barcode>8720959403968</barcode>
-    <title>Creatine Monohydraat - 300 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>14.95</price>
-    <actieprijs>11.21</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>creatine-monohydraat-300-gram</handle>
-    <option1/>
   </product>
 </products>
