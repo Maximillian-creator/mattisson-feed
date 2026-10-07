@@ -2516,7 +2516,7 @@
     <price>4.45</price>
     <actieprijs>4.45</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>keltisch-zeezout-grof-celtic-seasalt-navulzak</handle>
     <option1>1000 g</option1>
   </product>
@@ -5336,7 +5336,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-psyllium-husk-vezels</handle>
     <option1>90 g</option1>
   </product>
