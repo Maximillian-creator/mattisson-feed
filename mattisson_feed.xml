@@ -2605,30 +2605,6 @@
     <option1>20 ml</option1>
   </product>
   <product>
-    <sku>MT1528</sku>
-    <barcode>8717677965120</barcode>
-    <title>CBD Olie 2,78% - 10 ml</title>
-    <vendor>Mattisson</vendor>
-    <price>13.95</price>
-    <actieprijs>10.46</actieprijs>
-    <quantity>0</quantity>
-    <available>false</available>
-    <handle>cbd-olie-2-78</handle>
-    <option1>10 ml</option1>
-  </product>
-  <product>
-    <sku>MT1529</sku>
-    <barcode>8717677965137</barcode>
-    <title>CBD Olie 2,78% - 20 ml</title>
-    <vendor>Mattisson</vendor>
-    <price>21.95</price>
-    <actieprijs>16.46</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>cbd-olie-2-78</handle>
-    <option1>20 ml</option1>
-  </product>
-  <product>
     <sku>MT1860</sku>
     <barcode>8717677965151</barcode>
     <title>Colloïdaal Zilverwater 15PPM - 100 ml</title>
@@ -3320,7 +3296,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -3980,7 +3956,7 @@
     <price>26.95</price>
     <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>creatine-monohydraat-creapurer-180-capsules-1</handle>
     <option1/>
   </product>
@@ -4052,7 +4028,7 @@
     <price>51.90</price>
     <actieprijs>38.93</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4136,7 +4112,7 @@
     <price>24.95</price>
     <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>energy-support-60-capsules</handle>
     <option1/>
   </product>
@@ -4172,7 +4148,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
