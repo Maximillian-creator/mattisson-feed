@@ -1988,7 +1988,7 @@
     <price>22.95</price>
     <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>probissonr-met-prebiotica-1000mg-60-capsules</handle>
     <option1/>
   </product>
@@ -2504,7 +2504,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-omega-3-algenolie-dha-150mg-epa-75mg</handle>
     <option1>60 caps</option1>
   </product>
@@ -3200,7 +3200,7 @@
     <price>18.95</price>
     <actieprijs>14.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>glucosamine-chondroitine-met-msm-vitamine-c-d3-60-tabletten</handle>
     <option1/>
   </product>
@@ -4892,7 +4892,7 @@
     <price>34.90</price>
     <actieprijs>26.18</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>botten-gewrichten-spieren-bundel</handle>
     <option1/>
   </product>
@@ -5516,7 +5516,7 @@
     <price>34.95</price>
     <actieprijs>26.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>bloedsuiker-support-60-capsules</handle>
     <option1/>
   </product>
