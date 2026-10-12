@@ -3200,7 +3200,7 @@
     <price>18.95</price>
     <actieprijs>14.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>glucosamine-chondroitine-met-msm-vitamine-c-d3-60-tabletten</handle>
     <option1/>
   </product>
@@ -4892,7 +4892,7 @@
     <price>34.90</price>
     <actieprijs>26.18</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>botten-gewrichten-spieren-bundel</handle>
     <option1/>
   </product>
