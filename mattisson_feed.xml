@@ -265,18 +265,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT2043</sku>
-    <barcode>8717677962969</barcode>
-    <title>Biologisch Cranberry poeder - 125 g</title>
-    <vendor>Mattisson</vendor>
-    <price>19.95</price>
-    <actieprijs>19.95</actieprijs>
-    <quantity>0</quantity>
-    <available>false</available>
-    <handle>biologische-cranberry-poeder</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT2046</sku>
     <barcode>8717677963249</barcode>
     <title>Keltisch Zeezout fijn - Celtic Seasalt - Strooibus 125 g</title>
@@ -1988,7 +1976,7 @@
     <price>22.95</price>
     <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>probissonr-met-prebiotica-1000mg-60-capsules</handle>
     <option1/>
   </product>
@@ -2996,7 +2984,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-ginger-boost-shot-500-ml</handle>
     <option1/>
   </product>
@@ -3296,7 +3284,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>teunisbloem-en-borage-olie-met-75-mg-gla-60-capsules</handle>
     <option1/>
   </product>
@@ -4028,7 +4016,7 @@
     <price>51.90</price>
     <actieprijs>38.93</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4112,7 +4100,7 @@
     <price>24.95</price>
     <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>energy-support-60-capsules</handle>
     <option1/>
   </product>
@@ -4148,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
