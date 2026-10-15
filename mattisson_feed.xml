@@ -1976,7 +1976,7 @@
     <price>22.95</price>
     <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>probissonr-met-prebiotica-1000mg-60-capsules</handle>
     <option1/>
   </product>
@@ -3920,7 +3920,7 @@
     <price>24.95</price>
     <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-bcaa-250-gram</handle>
     <option1/>
   </product>
@@ -4016,7 +4016,7 @@
     <price>51.90</price>
     <actieprijs>38.93</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4136,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
@@ -5072,7 +5072,7 @@
     <price>29.95</price>
     <actieprijs>22.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-lion-s-mane-extract-500-mg-60-capsules</handle>
     <option1/>
   </product>
@@ -5132,7 +5132,7 @@
     <price>22.95</price>
     <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>lactase-optiferm-3000-fcc-90-capsules</handle>
     <option1/>
   </product>
