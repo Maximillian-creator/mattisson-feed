@@ -1028,7 +1028,7 @@
     <price>9.95</price>
     <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-amandelmeel</handle>
     <option1/>
   </product>
@@ -1892,7 +1892,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>omega-3-6-9-capsules-vis-teunisbloem-en-lijnzaadolie</handle>
     <option1/>
   </product>
@@ -2492,7 +2492,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-omega-3-algenolie-dha-150mg-epa-75mg</handle>
     <option1>60 caps</option1>
   </product>
@@ -3920,7 +3920,7 @@
     <price>24.95</price>
     <actieprijs>14.03</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-bcaa-250-gram</handle>
     <option1/>
   </product>
@@ -4016,7 +4016,7 @@
     <price>51.90</price>
     <actieprijs>38.93</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4136,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
@@ -5300,7 +5300,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-psyllium-husk-vezels</handle>
     <option1>90 g</option1>
   </product>
@@ -5504,7 +5504,7 @@
     <price>34.95</price>
     <actieprijs>26.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>bloedsuiker-support-60-capsules</handle>
     <option1/>
   </product>
