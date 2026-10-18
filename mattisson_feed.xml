@@ -1772,7 +1772,7 @@
     <price>17.95</price>
     <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>zwarte-knoflook-abg10-r-250mg-capsules</handle>
     <option1/>
   </product>
@@ -5240,7 +5240,7 @@
     <price>26.95</price>
     <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-psyllium-vezels-750-gram</handle>
     <option1/>
   </product>
