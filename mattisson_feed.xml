@@ -114,7 +114,7 @@
     <title>Kokosnoot olie 1000mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>18.95</price>
-    <actieprijs>14.21</actieprijs>
+    <actieprijs>18.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>kokosnoot-olie-1000mg-capsules</handle>
@@ -198,7 +198,7 @@
     <title>Natriumbicarbonaat 800mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>natriumbicarbonaat-800mg-capsules</handle>
@@ -510,7 +510,7 @@
     <title>Runder Collageen Blend Peptan® Type I - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-blend-peptanr-type-i-180-capsules</handle>
@@ -522,7 +522,7 @@
     <title>Marine Collageen Blend Peptan® Type I - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-blend-peptanr-type-i-180-capsules</handle>
@@ -582,7 +582,7 @@
     <title>Collageen Latte - Cappuccino smaak - 180 g</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>8.41</actieprijs>
+    <actieprijs>11.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-latte-cappuccino-smaak</handle>
@@ -702,7 +702,7 @@
     <title>Magnesium Bisglycinaat poeder - 11% elementair Magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-poeder-11-elementair-magnesium</handle>
@@ -714,7 +714,7 @@
     <title>Magnesium Citraat poeder - 15% elementair Magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>16.95</price>
-    <actieprijs>9.53</actieprijs>
+    <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-poeder-15-elementair-magnesium</handle>
@@ -1098,7 +1098,7 @@
     <title>Runder Collageen Poeder Peptan® Puur - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>22.95</price>
-    <actieprijs>12.91</actieprijs>
+    <actieprijs>17.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-peptanr-puur</handle>
@@ -1110,7 +1110,7 @@
     <title>Marine Collageen Poeder Peptan® Puur - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>19.66</actieprijs>
+    <actieprijs>26.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-poeder-peptanr-puur</handle>
@@ -1122,7 +1122,7 @@
     <title>Runder Collageen Poeder Peptan® Blend - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>13.47</actieprijs>
+    <actieprijs>17.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-peptanr-blend-vanille-smaak</handle>
@@ -1134,7 +1134,7 @@
     <title>Marine Collageen Poeder Peptan® Blend - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>35.95</price>
-    <actieprijs>20.22</actieprijs>
+    <actieprijs>26.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-poeder-peptanr-blend</handle>
@@ -1146,7 +1146,7 @@
     <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>runder-collageen-poeder-solugelr-grass-fed</handle>
@@ -1938,7 +1938,7 @@
     <title>L-Tryptofaan 500mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>21.95</price>
-    <actieprijs>16.46</actieprijs>
+    <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-tryptofaan-500mg-capsules</handle>
@@ -2214,7 +2214,7 @@
     <title>PEA strong (PalmitoylEthanolAmide) 400mg - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>26.21</actieprijs>
+    <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>pea-strong-palmitoylethanolamide-400mg-capsules</handle>
@@ -2226,7 +2226,7 @@
     <title>Aquamin Magnesium - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>10.10</actieprijs>
+    <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-aquamin-magnesium-capsules</handle>
@@ -2262,7 +2262,7 @@
     <title>L-Lysine+ met vitamine C - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>15.95</price>
-    <actieprijs>11.96</actieprijs>
+    <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-lysine-capsules-met-vitamine-c</handle>
@@ -2322,7 +2322,7 @@
     <title>Vegan Humuszuur - 500 ml</title>
     <vendor>Mattisson</vendor>
     <price>33.95</price>
-    <actieprijs>25.46</actieprijs>
+    <actieprijs>33.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-humuszuur-500-ml</handle>
@@ -2334,7 +2334,7 @@
     <title>Collageen - Colartix® - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>46.95</price>
-    <actieprijs>26.41</actieprijs>
+    <actieprijs>35.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-blend-capsules-colartixr</handle>
@@ -2346,7 +2346,7 @@
     <title>Collageen - Colartix® - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>13.47</actieprijs>
+    <actieprijs>17.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-blend-capsules-colartixr</handle>
@@ -2598,7 +2598,7 @@
     <title>Colloïdaal Zilverwater 15PPM - 100 ml</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>17.95</actieprijs>
+    <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>colloidaal-zilverwater-15ppm</handle>
@@ -2610,7 +2610,7 @@
     <title>Colloïdaal Zilverwater 15PPM - 1L</title>
     <vendor>Mattisson</vendor>
     <price>39.95</price>
-    <actieprijs>39.95</actieprijs>
+    <actieprijs>29.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>colloidaal-zilverwater-15ppm</handle>
@@ -2766,7 +2766,7 @@
     <title>Magnesium Citraat 400 mg - 60 mg elementair magnesium - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>23.95</price>
-    <actieprijs>13.47</actieprijs>
+    <actieprijs>17.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
@@ -2778,7 +2778,7 @@
     <title>Magnesium Citraat - 60 mg elementair magnesium - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>9.95</price>
-    <actieprijs>5.60</actieprijs>
+    <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
@@ -3066,7 +3066,7 @@
     <title>Vegan N-Acetyl-L-Cysteïne (NAC) 600 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>n-acetyl-l-cysteine-60-v-caps</handle>
@@ -3102,7 +3102,7 @@
     <title>Vegan Collagen Alternative - 60 Capsules</title>
     <vendor>Mattisson</vendor>
     <price>20.95</price>
-    <actieprijs>11.78</actieprijs>
+    <actieprijs>15.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>collageen-booster-capsules</handle>
@@ -3342,7 +3342,7 @@
     <title>Magnesium Citraat - 200 mg elementair Magnesium - 60 tabletten </title>
     <vendor>Mattisson</vendor>
     <price>13.95</price>
-    <actieprijs>7.85</actieprijs>
+    <actieprijs>10.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-200-mg-elementair-magnesium-60-tabletten</handle>
@@ -3498,7 +3498,7 @@
     <title>Magnesium Malaat poeder 173 mg - 11,5% elementair magnesium - 200 g</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>14.60</actieprijs>
+    <actieprijs>19.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-malaat-poeder-173-mg-11-5-elementair-magnesium-200-g</handle>
@@ -3510,7 +3510,7 @@
     <title>Magnesium Malaat 81 mg - 11,5% elementair magnesium - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>11.22</actieprijs>
+    <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-malaat-81-mg-11-5-elementair-magnesium-60-capsules</handle>
@@ -3522,7 +3522,7 @@
     <title>Magnesium Citraat Malaat Poeder 195 mg - 13% elementair magnesium - 125 g</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-malaat-poeder-195-mg-13-elementair-magnesium-200-g</handle>
@@ -3534,7 +3534,7 @@
     <title>Magnesium Citraat Malaat Capsules 86 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>11.22</actieprijs>
+    <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-citraat-malaat-capsules-86-mg-120-capsules</handle>
@@ -3594,7 +3594,7 @@
     <title>Royal Kombu 800 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>13.46</actieprijs>
+    <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>royal-kombu-800-mg-60-capsules</handle>
@@ -3702,7 +3702,7 @@
     <title>Biologische Bone Broth - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-bone-broth-180-capsules</handle>
@@ -3738,7 +3738,7 @@
     <title>Magnesium Tauraat Poeder - 250 gram</title>
     <vendor>Mattisson</vendor>
     <price>25.95</price>
-    <actieprijs>14.60</actieprijs>
+    <actieprijs>19.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-magnesium-tauraat-poeder-250-gram</handle>
@@ -3810,7 +3810,7 @@
     <title>L-Theanine 200 mg - 60 Capsules</title>
     <vendor>Mattisson</vendor>
     <price>36.95</price>
-    <actieprijs>27.71</actieprijs>
+    <actieprijs>36.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-theanine-200-mg-60-capsules</handle>
@@ -3906,7 +3906,7 @@
     <title>Vegan BCAA - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>27.95</price>
-    <actieprijs>15.72</actieprijs>
+    <actieprijs>20.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-bcaa-120-capsules</handle>
@@ -3918,7 +3918,7 @@
     <title>Vegan BCAA - 250 gram</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-bcaa-250-gram</handle>
@@ -3930,7 +3930,7 @@
     <title>Creatine Monohydraat Poeder - Creapure® - 350 gram </title>
     <vendor>Mattisson</vendor>
     <price>39.95</price>
-    <actieprijs>22.47</actieprijs>
+    <actieprijs>29.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>creatine-monohydraat-poeder-creapurer-350-gram-1</handle>
@@ -3942,7 +3942,7 @@
     <title>Creatine Monohydraat - Creapure® - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>creatine-monohydraat-creapurer-180-capsules-1</handle>
@@ -4014,9 +4014,9 @@
     <title>Darm &amp; Spijsvertering Bundel</title>
     <vendor>Mattisson</vendor>
     <price>51.90</price>
-    <actieprijs>38.93</actieprijs>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4026,7 +4026,7 @@
     <title>Magnesium Badzout - 900 gram</title>
     <vendor>Mattisson</vendor>
     <price>9.95</price>
-    <actieprijs>5.60</actieprijs>
+    <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-badzout-900-gram</handle>
@@ -4136,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
@@ -4182,7 +4182,7 @@
     <title>L-Glutamine 500mg - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>15.95</price>
-    <actieprijs>11.96</actieprijs>
+    <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-glutamine-500mg-90-capsules</handle>
@@ -4218,7 +4218,7 @@
     <title>Elektrolyten Poeder Lemon - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-lemon-300g</handle>
@@ -4230,7 +4230,7 @@
     <title>L-Leucine 500 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>14.96</actieprijs>
+    <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-leucine-500-mg-60-capsules</handle>
@@ -4242,7 +4242,7 @@
     <title>L-Arginine 500 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>17.95</price>
-    <actieprijs>13.46</actieprijs>
+    <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>l-arginine-500-mg-60-capsules</handle>
@@ -4446,7 +4446,7 @@
     <title>Nattokinase 100 mg - Fermokinase™ - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>18.71</actieprijs>
+    <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>nattokinase-100-mg-fermokinasetm-60-capsules</handle>
@@ -4482,7 +4482,7 @@
     <title>Elektrolyten Poeder Forest Fruit - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-forest-fruit-electrolytes-300g</handle>
@@ -4494,7 +4494,7 @@
     <title>Elektrolyten Poeder Peach - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-peach-electrolytes-300g</handle>
@@ -4614,7 +4614,7 @@
     <title>Multi Magnesium poeder - 250 mg  complex - 200 gram</title>
     <vendor>Mattisson</vendor>
     <price>28.95</price>
-    <actieprijs>16.28</actieprijs>
+    <actieprijs>21.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>multi-magnesium-poeder-250-mg-complex-200-gram</handle>
@@ -4758,7 +4758,7 @@
     <title>Hormoonbalans Bundel</title>
     <vendor>Mattisson</vendor>
     <price>59.90</price>
-    <actieprijs>44.93</actieprijs>
+    <actieprijs>49.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>hormoonbalans-bundel</handle>
@@ -4770,7 +4770,7 @@
     <title>Basis Vrouw Bundel</title>
     <vendor>Mattisson</vendor>
     <price>81.85</price>
-    <actieprijs>61.39</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>basis-vrouw-bundel</handle>
@@ -4782,7 +4782,7 @@
     <title>Basis Man Bundel</title>
     <vendor>Mattisson</vendor>
     <price>81.85</price>
-    <actieprijs>61.39</actieprijs>
+    <actieprijs>69.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>basis-man-bundel</handle>
@@ -4794,7 +4794,7 @@
     <title>Immuunsysteem Bundel</title>
     <vendor>Mattisson</vendor>
     <price>53.85</price>
-    <actieprijs>40.39</actieprijs>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>immuunsysteem-bundel</handle>
@@ -4806,7 +4806,7 @@
     <title>Slaap &amp; Ontspanning Bundel</title>
     <vendor>Mattisson</vendor>
     <price>39.90</price>
-    <actieprijs>29.93</actieprijs>
+    <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>slaap-ontspanning-bundel</handle>
@@ -4818,7 +4818,7 @@
     <title>Energie Bundel</title>
     <vendor>Mattisson</vendor>
     <price>53.85</price>
-    <actieprijs>40.39</actieprijs>
+    <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>energie-bundel</handle>
@@ -4830,7 +4830,7 @@
     <title>Gemoedstoestand Bundel</title>
     <vendor>Mattisson</vendor>
     <price>63.90</price>
-    <actieprijs>47.93</actieprijs>
+    <actieprijs>54.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>gemoedstoestand-bundel</handle>
@@ -4842,7 +4842,7 @@
     <title>Sport Bundel</title>
     <vendor>Mattisson</vendor>
     <price>86.85</price>
-    <actieprijs>48.86</actieprijs>
+    <actieprijs>65.14</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>sport-bundel</handle>
@@ -4854,7 +4854,7 @@
     <title>50+ Bundel</title>
     <vendor>Mattisson</vendor>
     <price>68.85</price>
-    <actieprijs>51.64</actieprijs>
+    <actieprijs>59.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>50-bundel</handle>
@@ -4866,7 +4866,7 @@
     <title>Zwanger/Mama Bundel</title>
     <vendor>Mattisson</vendor>
     <price>83.85</price>
-    <actieprijs>62.89</actieprijs>
+    <actieprijs>71.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>zwanger-mama-bundel</handle>
@@ -4878,7 +4878,7 @@
     <title>Botten, Gewrichten &amp; Spieren Bundel</title>
     <vendor>Mattisson</vendor>
     <price>34.90</price>
-    <actieprijs>26.18</actieprijs>
+    <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>botten-gewrichten-spieren-bundel</handle>
@@ -4890,7 +4890,7 @@
     <title>Focus Bundel</title>
     <vendor>Mattisson</vendor>
     <price>67.85</price>
-    <actieprijs>50.89</actieprijs>
+    <actieprijs>57.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>focus-bundel</handle>
@@ -4926,7 +4926,7 @@
     <title>Elektrolyten Poeder Natural - Electrolytes - 300g</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-naturel-300-gram</handle>
@@ -4938,7 +4938,7 @@
     <title>Vegan Elektrolyten - 180 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-elektrolyten-180-capsules</handle>
@@ -5022,7 +5022,7 @@
     <title>Beauty Bundel</title>
     <vendor>Mattisson</vendor>
     <price>76.85</price>
-    <actieprijs>57.64</actieprijs>
+    <actieprijs>64.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>beauty-bundel</handle>
@@ -5094,7 +5094,7 @@
     <title>Multi Magnesium 200 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>vegan-multi-magnesium-200-mg-120-capsules</handle>
@@ -5106,7 +5106,7 @@
     <title>Magnesium Bisglycinaat 150 mg - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>24.95</price>
-    <actieprijs>14.03</actieprijs>
+    <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-150-mg-120-capsules</handle>
@@ -5118,7 +5118,7 @@
     <title>Biologische Magnesium 100 mg - 60 capsules</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>biologische-magnesium-100-mg-60-capsules</handle>
@@ -5130,7 +5130,7 @@
     <title>Lactase OptiFerm - 3000 FCC - 90 capsules</title>
     <vendor>Mattisson</vendor>
     <price>22.95</price>
-    <actieprijs>17.21</actieprijs>
+    <actieprijs>22.95</actieprijs>
     <quantity>0</quantity>
     <available>false</available>
     <handle>lactase-optiferm-3000-fcc-90-capsules</handle>
@@ -5300,7 +5300,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-psyllium-husk-vezels</handle>
     <option1>90 g</option1>
   </product>
@@ -5394,7 +5394,7 @@
     <title>Magnesium Bisglycinaat 833mg - 90 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>19.95</price>
-    <actieprijs>11.22</actieprijs>
+    <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-tabletten-100-mg-elementair</handle>
@@ -5406,7 +5406,7 @@
     <title>Magnesium Bisglycinaat 833mg - 180 tabletten</title>
     <vendor>Mattisson</vendor>
     <price>34.95</price>
-    <actieprijs>19.66</actieprijs>
+    <actieprijs>26.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>magnesium-bisglycinaat-tabletten-100-mg-elementair</handle>
@@ -5562,7 +5562,7 @@
     <title>Elektrolyten Poeder Strawberry Lime - 300 gram</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-strawberry-lime-300-gram</handle>
@@ -5574,7 +5574,7 @@
     <title>Elektrolyten Poeder Lemon Mint - 300 gram</title>
     <vendor>Mattisson</vendor>
     <price>26.95</price>
-    <actieprijs>15.16</actieprijs>
+    <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>elektrolyten-poeder-lemon-mint-300-gram</handle>
@@ -5634,7 +5634,7 @@
     <title>Marine Collageen Complex - 120 capsules</title>
     <vendor>Mattisson</vendor>
     <price>29.95</price>
-    <actieprijs>16.85</actieprijs>
+    <actieprijs>22.46</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>marine-collageen-complex-120-capsules</handle>
@@ -5646,7 +5646,7 @@
     <title>Creatine Monohydraat - 300 gram</title>
     <vendor>Mattisson</vendor>
     <price>14.95</price>
-    <actieprijs>8.41</actieprijs>
+    <actieprijs>11.21</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
     <handle>creatine-monohydraat-300-gram</handle>
