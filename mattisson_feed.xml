@@ -1592,7 +1592,7 @@
     <price>17.95</price>
     <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>rijst-proteine-poeder-vanille-80</handle>
     <option1/>
   </product>
@@ -4628,7 +4628,7 @@
     <price>8.95</price>
     <actieprijs>8.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologisch-rijst-drink-poeder-500-g</handle>
     <option1/>
   </product>
@@ -5240,7 +5240,7 @@
     <price>26.95</price>
     <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-psyllium-vezels-750-gram</handle>
     <option1/>
   </product>
