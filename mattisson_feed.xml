@@ -1592,7 +1592,7 @@
     <price>17.95</price>
     <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>rijst-proteine-poeder-vanille-80</handle>
     <option1/>
   </product>
@@ -3128,7 +3128,7 @@
     <price>17.95</price>
     <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>pompoenpitolie-met-vitamine-e-1000mg-60-capsules</handle>
     <option1/>
   </product>
