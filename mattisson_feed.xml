@@ -116,7 +116,7 @@
     <price>18.95</price>
     <actieprijs>18.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>kokosnoot-olie-1000mg-capsules</handle>
     <option1/>
   </product>
@@ -332,7 +332,7 @@
     <price>9.95</price>
     <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-gerstegras-poeder</handle>
     <option1/>
   </product>
@@ -440,7 +440,7 @@
     <price>5.45</price>
     <actieprijs>5.45</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-kokosmeel</handle>
     <option1/>
   </product>
@@ -884,7 +884,7 @@
     <price>7.45</price>
     <actieprijs>7.45</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-omega-3-6-9-olie-vegan</handle>
     <option1/>
   </product>
@@ -1280,7 +1280,7 @@
     <price>15.95</price>
     <actieprijs>11.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-soja-proteine-poeder-90</handle>
     <option1/>
   </product>
@@ -1556,7 +1556,7 @@
     <price>4.95</price>
     <actieprijs>4.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-rijstmeel</handle>
     <option1/>
   </product>
@@ -1592,7 +1592,7 @@
     <price>17.95</price>
     <actieprijs>13.46</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>rijst-proteine-poeder-vanille-80</handle>
     <option1/>
   </product>
@@ -1724,7 +1724,7 @@
     <price>6.95</price>
     <actieprijs>6.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-aquakefir-vijgen-citroen</handle>
     <option1/>
   </product>
@@ -1772,7 +1772,7 @@
     <price>17.95</price>
     <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>zwarte-knoflook-abg10-r-250mg-capsules</handle>
     <option1/>
   </product>
@@ -2180,7 +2180,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>soja-lecithine-1200mg-capsules</handle>
     <option1/>
   </product>
@@ -2324,7 +2324,7 @@
     <price>33.95</price>
     <actieprijs>33.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-humuszuur-500-ml</handle>
     <option1/>
   </product>
@@ -2396,7 +2396,7 @@
     <price>13.45</price>
     <actieprijs>10.09</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>mct-olie-blend-c8-c10</handle>
     <option1>250 ml</option1>
   </product>
@@ -2432,7 +2432,7 @@
     <price>34.95</price>
     <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-omega-3-algenolie-dha-210mg-epa-70mg</handle>
     <option1>120 caps</option1>
   </product>
@@ -2492,7 +2492,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-omega-3-algenolie-dha-150mg-epa-75mg</handle>
     <option1>60 caps</option1>
   </product>
@@ -2569,27 +2569,27 @@
     <option1>10 ml</option1>
   </product>
   <product>
-    <sku>MT5525</sku>
-    <barcode>8717677968855</barcode>
-    <title>CBD Olie 10% - 10 ml</title>
+    <sku>MT1528</sku>
+    <barcode>8717677965120</barcode>
+    <title>CBD Olie 2,78% - 10 ml</title>
     <vendor>Mattisson</vendor>
-    <price>39.95</price>
-    <actieprijs>39.95</actieprijs>
+    <price>13.95</price>
+    <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
-    <handle>cbd-olie-10</handle>
+    <available>false</available>
+    <handle>cbd-olie-2-78</handle>
     <option1>10 ml</option1>
   </product>
   <product>
-    <sku>MT5530</sku>
-    <barcode>8717677968954</barcode>
-    <title>CBD Olie 10% - 20 ml</title>
+    <sku>MT1529</sku>
+    <barcode>8717677965137</barcode>
+    <title>CBD Olie 2,78% - 20 ml</title>
     <vendor>Mattisson</vendor>
-    <price>69.95</price>
-    <actieprijs>69.95</actieprijs>
+    <price>21.95</price>
+    <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
-    <handle>cbd-olie-10</handle>
+    <handle>cbd-olie-2-78</handle>
     <option1>20 ml</option1>
   </product>
   <product>
@@ -2780,7 +2780,7 @@
     <price>9.95</price>
     <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
     <option1>60 caps</option1>
   </product>
@@ -2984,7 +2984,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-ginger-boost-shot-500-ml</handle>
     <option1/>
   </product>
@@ -3008,7 +3008,7 @@
     <price>7.95</price>
     <actieprijs>7.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-kokosazijn-500-ml</handle>
     <option1/>
   </product>
@@ -3272,7 +3272,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>cla-geconjugeerd-linolzuur-800-mg-90-capsules</handle>
     <option1/>
   </product>
@@ -3296,7 +3296,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vegan-vitamine-d3-75-mcg-3000-ie-60-capsules</handle>
     <option1/>
   </product>
@@ -3308,7 +3308,7 @@
     <price>31.95</price>
     <actieprijs>31.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologisch-saffraan-met-sunfiber-r-60-capsules</handle>
     <option1/>
   </product>
@@ -3380,7 +3380,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-mushroom-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3392,7 +3392,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-adaptogeen-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3404,7 +3404,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-mariadistel-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3416,7 +3416,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-vlier-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3428,7 +3428,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-weerstand-immuun-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3440,7 +3440,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-nachtrust-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3452,7 +3452,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-echinacea-complex-100-ml</handle>
     <option1/>
   </product>
@@ -3596,7 +3596,7 @@
     <price>17.95</price>
     <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>royal-kombu-800-mg-60-capsules</handle>
     <option1/>
   </product>
@@ -3656,7 +3656,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-reds-blend-vezels-antioxidanten-180-capsules</handle>
     <option1/>
   </product>
@@ -3800,7 +3800,7 @@
     <price>20.95</price>
     <actieprijs>20.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-chaga-extract-60-capsules</handle>
     <option1/>
   </product>
@@ -3848,7 +3848,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>selenium-methionine-200mcg-90-capsules</handle>
     <option1/>
   </product>
@@ -3872,7 +3872,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-maitake-poeder-100-gram</handle>
     <option1/>
   </product>
@@ -3884,7 +3884,7 @@
     <price>20.95</price>
     <actieprijs>20.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-agaricus-400mg-60-capsules</handle>
     <option1/>
   </product>
@@ -3896,7 +3896,7 @@
     <price>44.95</price>
     <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-agaricus-poeder-200-gram</handle>
     <option1/>
   </product>
@@ -3944,7 +3944,7 @@
     <price>26.95</price>
     <actieprijs>20.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>creatine-monohydraat-creapurer-180-capsules-1</handle>
     <option1/>
   </product>
@@ -4016,7 +4016,7 @@
     <price>51.90</price>
     <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4136,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
@@ -4232,7 +4232,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>l-leucine-500-mg-60-capsules</handle>
     <option1/>
   </product>
@@ -4244,7 +4244,7 @@
     <price>17.95</price>
     <actieprijs>17.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>l-arginine-500-mg-60-capsules</handle>
     <option1/>
   </product>
@@ -4592,7 +4592,7 @@
     <price>16.95</price>
     <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>shakebeker-rvs-750-ml</handle>
     <option1/>
   </product>
@@ -4628,7 +4628,7 @@
     <price>8.95</price>
     <actieprijs>8.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-rijst-drink-poeder-500-g</handle>
     <option1/>
   </product>
@@ -4796,7 +4796,7 @@
     <price>53.85</price>
     <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>immuunsysteem-bundel</handle>
     <option1/>
   </product>
@@ -4952,7 +4952,7 @@
     <price>18.95</price>
     <actieprijs>18.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>mattisson-tas</handle>
     <option1/>
   </product>
@@ -5156,7 +5156,7 @@
     <price>15.95</price>
     <actieprijs>15.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>sleep-well-etherische-olie-10-ml</handle>
     <option1/>
   </product>
@@ -5168,7 +5168,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>stress-release-etherische-olie-10-ml</handle>
     <option1/>
   </product>
@@ -5180,7 +5180,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>focus-etherische-olie-10-ml</handle>
     <option1/>
   </product>
@@ -5192,7 +5192,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>sleep-well-roomspray-50-ml</handle>
     <option1/>
   </product>
@@ -5204,7 +5204,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>stress-release-roomspray-50-ml</handle>
     <option1/>
   </product>
@@ -5216,7 +5216,7 @@
     <price>14.95</price>
     <actieprijs>14.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>focus-roomspray-50-ml</handle>
     <option1/>
   </product>
@@ -5228,7 +5228,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>organic-body-oil-100-ml</handle>
     <option1/>
   </product>
@@ -5264,7 +5264,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>probissonr-biotica-complex-60-capsules</handle>
     <option1/>
   </product>
@@ -5516,7 +5516,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-zwarte-maca-300-gram</handle>
     <option1/>
   </product>
@@ -5528,7 +5528,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-rode-maca-300-gram</handle>
     <option1/>
   </product>
