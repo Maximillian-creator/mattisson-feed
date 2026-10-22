@@ -2432,7 +2432,7 @@
     <price>34.95</price>
     <actieprijs>34.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-omega-3-algenolie-dha-210mg-epa-70mg</handle>
     <option1>120 caps</option1>
   </product>
@@ -3296,7 +3296,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-vitamine-d3-75-mcg-3000-ie-60-capsules</handle>
     <option1/>
   </product>
@@ -4796,7 +4796,7 @@
     <price>53.85</price>
     <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>immuunsysteem-bundel</handle>
     <option1/>
   </product>
