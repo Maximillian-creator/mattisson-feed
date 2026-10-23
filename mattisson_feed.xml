@@ -332,7 +332,7 @@
     <price>9.95</price>
     <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-gerstegras-poeder</handle>
     <option1/>
   </product>
@@ -1280,7 +1280,7 @@
     <price>15.95</price>
     <actieprijs>11.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-soja-proteine-poeder-90</handle>
     <option1/>
   </product>
@@ -4016,7 +4016,7 @@
     <price>51.90</price>
     <actieprijs>44.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>darm-spijsvertering-bundel</handle>
     <option1/>
   </product>
@@ -4136,7 +4136,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>spijsvertering-support-90-capsules</handle>
     <option1/>
   </product>
@@ -4592,7 +4592,7 @@
     <price>16.95</price>
     <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>shakebeker-rvs-750-ml</handle>
     <option1/>
   </product>
