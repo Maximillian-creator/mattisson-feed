@@ -2780,7 +2780,7 @@
     <price>9.95</price>
     <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>magnesium-citraat-capsules-60-mg-elementair</handle>
     <option1>60 caps</option1>
   </product>
