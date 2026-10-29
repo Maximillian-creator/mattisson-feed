@@ -2072,7 +2072,7 @@
     <price>16.95</price>
     <actieprijs>16.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>rvs-thermo-drinkfles-500-ml</handle>
     <option1/>
   </product>
