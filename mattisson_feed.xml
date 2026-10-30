@@ -440,7 +440,7 @@
     <price>5.45</price>
     <actieprijs>5.45</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologisch-kokosmeel</handle>
     <option1/>
   </product>
@@ -5516,7 +5516,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-zwarte-maca-300-gram</handle>
     <option1/>
   </product>
