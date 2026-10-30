@@ -80,7 +80,10 @@ def main():
             f"Geen feed weggeschreven - een halve feed laat Stock Sync producten "
             f"archiveren."
         )
-    save_xml(build_xml(producten), OUTPUT_FILE)
+    root = build_xml(producten)
+    import prijsrem
+    print(prijsrem.verslag(prijsrem.pas_toe(root, OUTPUT_FILE)))
+    save_xml(root, OUTPUT_FILE)
     zonder_voorraad = sum(
         1 for p in producten for v in p["varianten"] if not v["beschikbaar"]
     )
