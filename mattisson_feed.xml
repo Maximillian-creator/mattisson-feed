@@ -2324,7 +2324,7 @@
     <price>33.95</price>
     <actieprijs>33.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-humuszuur-500-ml</handle>
     <option1/>
   </product>
@@ -2396,7 +2396,7 @@
     <price>13.45</price>
     <actieprijs>10.09</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>mct-olie-blend-c8-c10</handle>
     <option1>250 ml</option1>
   </product>
@@ -2492,7 +2492,7 @@
     <price>19.95</price>
     <actieprijs>19.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-omega-3-algenolie-dha-150mg-epa-75mg</handle>
     <option1>60 caps</option1>
   </product>
@@ -3848,7 +3848,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>selenium-methionine-200mcg-90-capsules</handle>
     <option1/>
   </product>
@@ -5528,7 +5528,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-rode-maca-300-gram</handle>
     <option1/>
   </product>
