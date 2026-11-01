@@ -4436,7 +4436,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>thai-chicken-bone-broth-240-ml</handle>
     <option1/>
   </product>
