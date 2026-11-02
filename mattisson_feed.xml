@@ -3368,7 +3368,7 @@
     <price>24.95</price>
     <actieprijs>24.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologisch-meidoorn-complex-100-ml</handle>
     <option1/>
   </product>
@@ -5228,7 +5228,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>organic-body-oil-100-ml</handle>
     <option1/>
   </product>
