@@ -1129,30 +1129,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT3007</sku>
-    <barcode>8717677967971</barcode>
-    <title>Marine Collageen Poeder Peptan® Blend - 300 g</title>
-    <vendor>Mattisson</vendor>
-    <price>35.95</price>
-    <actieprijs>35.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>marine-collageen-poeder-peptanr-blend</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT3016</sku>
-    <barcode>8720289190255</barcode>
-    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
-    <vendor>Mattisson</vendor>
-    <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>runder-collageen-poeder-solugelr-grass-fed</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT4115</sku>
     <barcode>8717677966318</barcode>
     <title>Biologische Bijenpollen - Stuifmeelkorrels - 300 g</title>
@@ -5699,5 +5675,53 @@
     <available>true</available>
     <handle>biologische-wei-proteine-poeder-vanille-75</handle>
     <option1>450 g</option1>
+  </product>
+  <product>
+    <sku>MT3007</sku>
+    <barcode>8717677967971</barcode>
+    <title>Marine Collageen Poeder Peptan® Blend - 300 g</title>
+    <vendor>Mattisson</vendor>
+    <price>35.95</price>
+    <actieprijs>35.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>marine-collageen-poeder-peptan-blend</handle>
+    <option1>300 g</option1>
+  </product>
+  <product>
+    <sku>MT3041</sku>
+    <barcode>8720959404002</barcode>
+    <title>Marine Collageen Poeder Peptan® Blend - 500 g</title>
+    <vendor>Mattisson</vendor>
+    <price>49.95</price>
+    <actieprijs>49.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>marine-collageen-poeder-peptan-blend</handle>
+    <option1>500 g</option1>
+  </product>
+  <product>
+    <sku>MT3016</sku>
+    <barcode>8720289190255</barcode>
+    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
+    <vendor>Mattisson</vendor>
+    <price>24.95</price>
+    <actieprijs>24.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
+    <option1>300 g</option1>
+  </product>
+  <product>
+    <sku>MT3040</sku>
+    <barcode>8720959403999</barcode>
+    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 500 g</title>
+    <vendor>Mattisson</vendor>
+    <price>34.95</price>
+    <actieprijs>34.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
+    <option1>500 g</option1>
   </product>
 </products>
