@@ -5725,6 +5725,30 @@
     <option1>500 g</option1>
   </product>
   <product>
+    <sku>MT1900</sku>
+    <barcode>8720959404125</barcode>
+    <title>Chai Latte Limited Edition - 150 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>9.95</price>
+    <actieprijs>9.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>chai-latte-150-gram</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT1898</sku>
+    <barcode>8720959404101</barcode>
+    <title>Chocomelk collageen - 300 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>21.95</price>
+    <actieprijs>21.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>chocomelk-collageen-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT1899</sku>
     <barcode>8720959404118</barcode>
     <title>Chocomelk - 150 gram</title>
