@@ -5677,6 +5677,30 @@
     <option1>450 g</option1>
   </product>
   <product>
+    <sku>MT3016</sku>
+    <barcode>8720289190255</barcode>
+    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
+    <vendor>Mattisson</vendor>
+    <price>24.95</price>
+    <actieprijs>24.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
+    <option1>300 g</option1>
+  </product>
+  <product>
+    <sku>MT3040</sku>
+    <barcode>8720959403999</barcode>
+    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 500 g</title>
+    <vendor>Mattisson</vendor>
+    <price>34.95</price>
+    <actieprijs>34.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
+    <option1>500 g</option1>
+  </product>
+  <product>
     <sku>MT3007</sku>
     <barcode>8717677967971</barcode>
     <title>Marine Collageen Poeder Peptan® Blend - 300 g</title>
@@ -5701,27 +5725,15 @@
     <option1>500 g</option1>
   </product>
   <product>
-    <sku>MT3016</sku>
-    <barcode>8720289190255</barcode>
-    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
+    <sku>MT1899</sku>
+    <barcode>8720959404118</barcode>
+    <title>Chocomelk - 150 gram</title>
     <vendor>Mattisson</vendor>
-    <price>24.95</price>
-    <actieprijs>24.95</actieprijs>
+    <price>9.95</price>
+    <actieprijs>9.95</actieprijs>
     <quantity>0</quantity>
     <available>true</available>
-    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
-    <option1>300 g</option1>
-  </product>
-  <product>
-    <sku>MT3040</sku>
-    <barcode>8720959403999</barcode>
-    <title>Runder Collageen Poeder Solugel® - Grass-Fed - 500 g</title>
-    <vendor>Mattisson</vendor>
-    <price>34.95</price>
-    <actieprijs>34.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>runder-collageen-poeder-solugel-grass-fed</handle>
-    <option1>500 g</option1>
+    <handle>chocomelk-mct-kaneel-150g</handle>
+    <option1/>
   </product>
 </products>
