@@ -1496,7 +1496,7 @@
     <price>29.95</price>
     <actieprijs>29.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>sport-wei-proteine-poeder-78-vanille</handle>
     <option1/>
   </product>
@@ -4969,18 +4969,6 @@
     <option1/>
   </product>
   <product>
-    <sku>MT1838</sku>
-    <barcode>8720959402251</barcode>
-    <title>Biologische Cichorei Vezels - 275 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>19.95</price>
-    <actieprijs>19.95</actieprijs>
-    <quantity>0</quantity>
-    <available>false</available>
-    <handle>biologische-cichorei-vezels-275-gram</handle>
-    <option1/>
-  </product>
-  <product>
     <sku>MT2631</sku>
     <barcode>8720959402244</barcode>
     <title>Biologisch Matcha Ceremonie poeder - 35 gram</title>
@@ -5204,7 +5192,7 @@
     <price>21.95</price>
     <actieprijs>21.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>organic-body-oil-100-ml</handle>
     <option1/>
   </product>
@@ -5677,6 +5665,42 @@
     <option1>450 g</option1>
   </product>
   <product>
+    <sku>MT1898</sku>
+    <barcode>8720959404101</barcode>
+    <title>Chocomelk collageen - 300 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>21.95</price>
+    <actieprijs>21.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>chocomelk-collageen-300-gram</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT1899</sku>
+    <barcode>8720959404118</barcode>
+    <title>Chocomelk - 150 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>9.95</price>
+    <actieprijs>9.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>chocomelk-mct-kaneel-150g</handle>
+    <option1/>
+  </product>
+  <product>
+    <sku>MT1900</sku>
+    <barcode>8720959404125</barcode>
+    <title>Chai Latte Limited Edition - 150 gram</title>
+    <vendor>Mattisson</vendor>
+    <price>9.95</price>
+    <actieprijs>9.95</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>chai-latte-150-gram</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT3016</sku>
     <barcode>8720289190255</barcode>
     <title>Runder Collageen Poeder Solugel® - Grass-Fed - 300 g</title>
@@ -5723,41 +5747,5 @@
     <available>true</available>
     <handle>marine-collageen-poeder-peptan-blend</handle>
     <option1>500 g</option1>
-  </product>
-  <product>
-    <sku>MT1900</sku>
-    <barcode>8720959404125</barcode>
-    <title>Chai Latte Limited Edition - 150 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>9.95</price>
-    <actieprijs>9.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>chai-latte-150-gram</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT1898</sku>
-    <barcode>8720959404101</barcode>
-    <title>Chocomelk collageen - 300 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>21.95</price>
-    <actieprijs>21.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>chocomelk-collageen-300-gram</handle>
-    <option1/>
-  </product>
-  <product>
-    <sku>MT1899</sku>
-    <barcode>8720959404118</barcode>
-    <title>Chocomelk - 150 gram</title>
-    <vendor>Mattisson</vendor>
-    <price>9.95</price>
-    <actieprijs>9.95</actieprijs>
-    <quantity>0</quantity>
-    <available>true</available>
-    <handle>chocomelk-mct-kaneel-150g</handle>
-    <option1/>
   </product>
 </products>
