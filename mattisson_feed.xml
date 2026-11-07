@@ -5480,7 +5480,7 @@
     <price>13.95</price>
     <actieprijs>13.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-zwarte-maca-300-gram</handle>
     <option1/>
   </product>
