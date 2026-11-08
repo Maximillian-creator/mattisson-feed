@@ -2948,7 +2948,7 @@
     <price>6.95</price>
     <actieprijs>6.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>organic-poultry-bone-broth-botten-boullion-gevogelte-240ml</handle>
     <option1/>
   </product>
@@ -3920,7 +3920,7 @@
     <price>26.95</price>
     <actieprijs>26.95</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>creatine-monohydraat-creapurer-180-capsules-1</handle>
     <option1/>
   </product>
