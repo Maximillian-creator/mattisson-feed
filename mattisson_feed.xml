@@ -1736,7 +1736,7 @@
     <price>15.95</price>
     <actieprijs>11.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-ginkgo-biloba-capsules</handle>
     <option1/>
   </product>
@@ -2888,7 +2888,7 @@
     <price>16.95</price>
     <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-cacao-nibs</handle>
     <option1>400 g</option1>
   </product>
