@@ -1736,7 +1736,7 @@
     <price>15.95</price>
     <actieprijs>11.96</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-ginkgo-biloba-capsules</handle>
     <option1/>
   </product>
@@ -2888,7 +2888,7 @@
     <price>16.95</price>
     <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-cacao-nibs</handle>
     <option1>400 g</option1>
   </product>
@@ -2948,7 +2948,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>organic-poultry-bone-broth-botten-boullion-gevogelte-240ml</handle>
     <option1/>
   </product>
@@ -4412,7 +4412,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>thai-chicken-bone-broth-240-ml</handle>
     <option1/>
   </product>
@@ -4568,7 +4568,7 @@
     <price>16.95</price>
     <actieprijs>12.71</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>shakebeker-rvs-750-ml</handle>
     <option1/>
   </product>
@@ -5264,7 +5264,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>false</available>
+    <available>true</available>
     <handle>biologische-psyllium-husk-vezels</handle>
     <option1>90 g</option1>
   </product>
