@@ -764,7 +764,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vitamine-d3-75-mcg-capsules</handle>
     <option1/>
   </product>
@@ -5696,7 +5696,7 @@
     <price>9.95</price>
     <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>chocomelk-mct-kaneel-150g</handle>
     <option1/>
   </product>
