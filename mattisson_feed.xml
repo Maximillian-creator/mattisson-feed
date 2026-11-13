@@ -2281,6 +2281,18 @@
     <option1/>
   </product>
   <product>
+    <sku>MT1005</sku>
+    <barcode>0073377962035</barcode>
+    <title>Kersenpitkussen - 22x25cm - Doos</title>
+    <vendor>Mattisson</vendor>
+    <price>14.95</price>
+    <actieprijs>11.21</actieprijs>
+    <quantity>0</quantity>
+    <available>true</available>
+    <handle>kersenpitkussen-22x25cm-doos</handle>
+    <option1/>
+  </product>
+  <product>
     <sku>MT2616</sku>
     <barcode>8720289192822</barcode>
     <title>Rhodiola Extract 5% - 60 capsules</title>
