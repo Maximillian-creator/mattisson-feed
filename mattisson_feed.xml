@@ -3356,7 +3356,7 @@
     <price>24.95</price>
     <actieprijs>18.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-meidoorn-complex-100-ml</handle>
     <option1/>
   </product>
