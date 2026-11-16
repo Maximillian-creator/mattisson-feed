@@ -3080,7 +3080,7 @@
     <price>27.95</price>
     <actieprijs>20.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>reds-blend-collageen-poeder</handle>
     <option1/>
   </product>
