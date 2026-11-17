@@ -2108,7 +2108,7 @@
     <price>7.95</price>
     <actieprijs>5.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-granaatappel-sap</handle>
     <option1/>
   </product>
@@ -2924,7 +2924,7 @@
     <price>12.95</price>
     <actieprijs>9.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologisch-cacao-poeder</handle>
     <option1>300 g</option1>
   </product>
