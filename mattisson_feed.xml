@@ -476,7 +476,7 @@
     <price>9.95</price>
     <actieprijs>7.46</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-kurkuma-latte-gezoet</handle>
     <option1/>
   </product>
