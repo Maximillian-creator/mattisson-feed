@@ -596,7 +596,7 @@
     <price>4.95</price>
     <actieprijs>3.71</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-pijlstaartwortel-poeder-arrowroot</handle>
     <option1/>
   </product>
@@ -1484,7 +1484,7 @@
     <price>39.95</price>
     <actieprijs>29.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-wei-proteine-poeder-75-cacao</handle>
     <option1/>
   </product>
