@@ -2180,7 +2180,7 @@
     <price>19.95</price>
     <actieprijs>14.96</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>vitamine-c-gebufferd-1000mg-capsules</handle>
     <option1/>
   </product>
@@ -4784,7 +4784,7 @@
     <price>53.85</price>
     <actieprijs>40.39</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>immuunsysteem-bundel</handle>
     <option1/>
   </product>
@@ -4808,7 +4808,7 @@
     <price>53.85</price>
     <actieprijs>40.39</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>energie-bundel</handle>
     <option1/>
   </product>
