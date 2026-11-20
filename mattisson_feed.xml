@@ -2504,7 +2504,7 @@
     <price>18.95</price>
     <actieprijs>14.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>keltisch-zeezout-grof-celtic-seasalt-navulzak</handle>
     <option1>5000 g</option1>
   </product>
@@ -4592,7 +4592,7 @@
     <price>6.95</price>
     <actieprijs>5.21</actieprijs>
     <quantity>0</quantity>
-    <available>true</available>
+    <available>false</available>
     <handle>biologische-apple-cider-vinegar-appelazijn-matcha-citroen-500-ml</handle>
     <option1/>
   </product>
